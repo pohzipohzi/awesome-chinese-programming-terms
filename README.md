@@ -27,10 +27,9 @@ A list of useful programming terms in chinese
 | Node | 结点 | jié diǎn | 叶结点 (leaf node), 左结点 (left node), 右结点 (right node) |
 | Path | 通路 | tōng lù | - |
 | Port | 端口 | duān kǒu | - |
-| Pull Request | 拉请求 | - |
+| Pull Request | 拉请求 | lā qǐng qiú | 更新拉请求 (update pull request) |
 | Recursive | 递归 | dì guī | - |
 | Search | 搜索 | sōu suǒ | 深度优先搜索 (depth-first search), 广度优先搜索 (breadth-first search) |
 | Test | 测试 | cè shì | - |
 | Tree | 树 | shù | 二叉树 (binary tree) |
-| Update (your pull request) | 更新 | gēng xīn | - |
 | Variable | 变量 | biàn liàng | - |
