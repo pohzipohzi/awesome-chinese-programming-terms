@@ -10,6 +10,7 @@ A list of useful programming terms in chinese
 | (Bit) Shift | 移位 | yí wèi | - |
 | Brackets / Parentheses | 括号 | kuò hào | - |
 | Branch | 分支 | fēn zhī | 远程分支 (remote branch), 检出分支 (checkout branch) |
+| Browse | 浏览 | liú lǎn | 浏览器 (browser) |
 | Code | 代码 | dài mǎ | - |
 | Command | 命令 | mìng lìng | - |
 | Coverage | 覆盖率 | fù gài lǜ | 代码覆盖率 (code coverage) |
