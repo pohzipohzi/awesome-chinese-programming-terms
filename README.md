@@ -10,11 +10,13 @@ A list of useful programming terms in chinese
 | (Bit) Shift | 移位 | yí wèi | - |
 | Brackets / Parentheses | 括号 | kuò hào | - |
 | Branch | 分支 | fēn zhī | 远程分支 (remote branch), 检出分支 (checkout branch) |
+| Browse | 浏览 | liú lǎn | 浏览器 (browser) |
 | Code | 代码 | dài mǎ | - |
 | Command | 命令 | mìng lìng | - |
 | Coverage | 覆盖率 | fù gài lǜ | 代码覆盖率 (code coverage) |
 | (Data) Structure | 结构 | jié gòu | - |
 | Deploy | 部署 | bù shǔ | - |
+| Documentation | 文档 | wén dàng | - |
 | Download | 下载 | xià zǎi | - |
 | Front End | 前端 | qián duān | - |
 | Function | 函数 | hán shù | - |
@@ -34,3 +36,4 @@ A list of useful programming terms in chinese
 | Test | 测试 | cè shì | - |
 | Tree | 树 | shù | 二叉树 (binary tree) |
 | Variable | 变量 | biàn liàng | - |
+| Version | 版本 | bǎn běn | - |
