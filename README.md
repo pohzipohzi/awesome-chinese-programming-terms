@@ -14,7 +14,7 @@ A list of useful programming terms in chinese
 | Code | 代码 | dài mǎ | - |
 | Command | 命令 | mìng lìng | - |
 | Coverage | 覆盖率 | fù gài lǜ | 代码覆盖率 (code coverage) |
-| (Data) Structure | 结构 | jié gòu | - |
+| Data Structure | 数据结构 | shù jù jié gòu | - |
 | Database | 数据库 | shù jù kù | 数据库索引 (database index), 数据库视图 (database view) |
 | Deploy | 部署 | bù shǔ | - |
 | Documentation | 文档 | wén dàng | - |
