@@ -15,6 +15,7 @@ A list of useful programming terms in chinese
 | Coverage | 覆盖率 | fù gài lǜ | 代码覆盖率 (code coverage) |
 | (Data) Structure | 结构 | jié gòu | - |
 | Deploy | 部署 | bù shǔ | - |
+| Documentation | 文档 | wén dàng | - |
 | Download | 下载 | xià zǎi | - |
 | Front End | 前端 | qián duān | - |
 | Function | 函数 | hán shù | - |
@@ -34,3 +35,4 @@ A list of useful programming terms in chinese
 | Test | 测试 | cè shì | - |
 | Tree | 树 | shù | 二叉树 (binary tree) |
 | Variable | 变量 | biàn liàng | - |
+| Version | 版本 | bǎn běn | - |
