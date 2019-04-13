@@ -15,6 +15,7 @@ A list of useful programming terms in chinese
 | Command | 命令 | mìng lìng | - |
 | Coverage | 覆盖率 | fù gài lǜ | 代码覆盖率 (code coverage) |
 | (Data) Structure | 结构 | jié gòu | - |
+| Database | 数据库 | shù jù kù | 数据库索引 (database index), 数据库视图 (database view) |
 | Deploy | 部署 | bù shǔ | - |
 | Documentation | 文档 | wén dàng | - |
 | Download | 下载 | xià zǎi | - |
@@ -32,6 +33,7 @@ A list of useful programming terms in chinese
 | Port | 端口 | duān kǒu | - |
 | Pull Request | 拉请求 | lā qǐng qiú | 更新拉请求 (update pull request) |
 | Recursive | 递归 | dì guī | - |
+| Release | 发布 | fā bù | - |
 | Search | 搜索 | sōu suǒ | 深度优先搜索 (depth-first search), 广度优先搜索 (breadth-first search) |
 | Test | 测试 | cè shì | - |
 | Tree | 树 | shù | 二叉树 (binary tree) |
