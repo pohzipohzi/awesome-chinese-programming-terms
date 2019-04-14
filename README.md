@@ -4,7 +4,7 @@ A list of useful programming terms in chinese
 | Term | Chinese | Pinyin | Usage |
 | - | - | - | - |
 | -ary | 进制 | jìn zhì | 二进制 (binary), 十进制 (decimal), 十六进制 (hexadecimal) |
-| Algorithm | 算法 | suàn fǎ | - |
+| Algorithm | 算法 | suàn fǎ | 算法复杂度 (algorithmic complexity) |
 | Array | 数组 | shù zǔ | - |
 | Availability | 可用性 | kě yòng xìng | - |
 | Back End | 后端 | hòu duān | - |
@@ -12,6 +12,7 @@ A list of useful programming terms in chinese
 | Brackets / Parentheses | 括号 | kuò hào | - |
 | Branch | 分支 | fēn zhī | 远程分支 (remote branch), 检出分支 (checkout branch) |
 | Browse | 浏览 | liú lǎn | 浏览器 (browser) |
+| Brute Force | 暴力法 | bào lì fǎ | - |
 | Cache | 缓存 | huǎn cún | 多级缓存 (multi-level cache) |
 | Code | 代码 | dài mǎ | - |
 | Command | 命令 | mìng lìng | - |
@@ -42,6 +43,7 @@ A list of useful programming terms in chinese
 | Recursive | 递归 | dì guī | - |
 | Release | 发布 | fā bù | - |
 | Search | 搜索 | sōu suǒ | 深度优先搜索 (depth-first search), 广度优先搜索 (breadth-first search) |
+| Sort | 排序 | pái xù | 比较类排序 (comparison-based sort), 非比较类排序 (non-comparison-based sort), 冒泡排序 (bubble sort), 选择排序 (selection sort), 插入排序 (insertion sort), 希尔排序 (shell sort), 归并排序 (merge sort), 快速排序 (quick sort), 堆排序 (heap sort), 计数排序 (counting sort), 桶排序 (bucket sort), 基数排序 (radix sort) |
 | Test | 测试 | cè shì | - |
 | Tree | 树 | shù | 二叉树 (binary tree) |
 | Variable | 变量 | biàn liàng | - |
