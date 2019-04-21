@@ -14,6 +14,7 @@ A list of useful programming terms in chinese
 | Browse | 浏览 | liú lǎn | 浏览器 (browser) |
 | Brute Force | 暴力法 | bào lì fǎ | - |
 | Cache | 缓存 | huǎn cún | 多级缓存 (multi-level cache) |
+| Class | 类 | lèi | - |
 | Code | 代码 | dài mǎ | - |
 | Combinatorics | 组合数学 | zǔ hé shù xué | - |
 | Command | 命令 | mìng lìng | - |
@@ -31,7 +32,9 @@ A list of useful programming terms in chinese
 | Front End | 前端 | qián duān | - |
 | Function | 函数 | hán shù | - |
 | Graph | 图 | tú | 二分图 (bipartite graph), 有向图 (directed graph), 有向无环图 (directed acyclic graph) |
+| Implement | 实现 | shí xiàn | - |
 | Install | 安装 | ān zhuānɡ | npm安装 (npm install) |
+| Interface | 接口 | jiē kǒu | - |
 | Last In First Out (LIFO) | 后进先出 | hòu jìn xiān chū | - |
 | Linked List | 链表 | liàn biǎo | - |
 | Log | 日志 | rì zhì | - |
