@@ -24,10 +24,12 @@ A list of useful programming terms in chinese
 | Deploy | 部署 | bù shǔ | - |
 | Documentation | 文档 | wén dàng | - |
 | Download | 下载 | xià zǎi | - |
+| First In First Out (FIFO) | 先进先出 | xiān jìn xiān chū | - |
 | Front End | 前端 | qián duān | - |
 | Function | 函数 | hán shù | - |
 | Install | 安装 | ān zhuānɡ | npm安装 (npm install) |
 | Linked List | 链表 | liàn biǎo | - |
+| Last In First Out (LIFO) | 后进先出 | hòu jìn xiān chū | - |
 | Log | 日志 | rì zhì | - |
 | Logic | 逻辑 | luó jí | - |
 | Loop | 循环 | xún huán | - |
@@ -41,10 +43,12 @@ A list of useful programming terms in chinese
 | Port | 端口 | duān kǒu | - |
 | Program (verb) | 编程 | biān chéng | 并发编程 (concurrent programming)  |
 | Pull Request | 拉请求 | lā qǐng qiú | 更新拉请求 (update pull request) |
+| Queue | 队列 | duì liè | - |
 | Recursive | 递归 | dì guī | - |
 | Release | 发布 | fā bù | - |
 | Search | 搜索 | sōu suǒ | 深度优先搜索 (depth-first search), 广度优先搜索 (breadth-first search) |
 | Sort | 排序 | pái xù | 比较类排序 (comparison-based sort), 非比较类排序 (non-comparison-based sort), 冒泡排序 (bubble sort), 选择排序 (selection sort), 插入排序 (insertion sort), 希尔排序 (shell sort), 归并排序 (merge sort), 快速排序 (quick sort), 堆排序 (heap sort), 计数排序 (counting sort), 桶排序 (bucket sort), 基数排序 (radix sort) |
+| Stack | 堆叠 | duī dié | - |
 | Test | 测试 | cè shì | - |
 | Tree | 树 | shù | 二叉树 (binary tree), 二叉查找树 (binary search tree), 平衡二叉搜索树 (balanced binary tree), AVL树 (AVL tree), 红黑树 (red black tree), 字典树 (trie), B树 (b-tree) |
 | Variable | 变量 | biàn liàng | - |
