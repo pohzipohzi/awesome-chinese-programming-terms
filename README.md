@@ -35,6 +35,7 @@ A list of useful programming terms in chinese
 | Negative Sign | 负号 | fù hào | - |
 | Network | 网络 | wǎng luò | - |
 | Node | 结点 | jié diǎn | 叶结点 (leaf node), 左结点 (left node), 右结点 (right node) |
+| Optimize | 优化 | yōu huà | - |
 | Partition | 分区 | fēn qū | 容忍网络分区 (partition tolerance), 网络分区 (network partition), 磁盘分区 (disk partition) |
 | Path | 通路 | tōng lù | - |
 | Port | 端口 | duān kǒu | - |
@@ -45,6 +46,6 @@ A list of useful programming terms in chinese
 | Search | 搜索 | sōu suǒ | 深度优先搜索 (depth-first search), 广度优先搜索 (breadth-first search) |
 | Sort | 排序 | pái xù | 比较类排序 (comparison-based sort), 非比较类排序 (non-comparison-based sort), 冒泡排序 (bubble sort), 选择排序 (selection sort), 插入排序 (insertion sort), 希尔排序 (shell sort), 归并排序 (merge sort), 快速排序 (quick sort), 堆排序 (heap sort), 计数排序 (counting sort), 桶排序 (bucket sort), 基数排序 (radix sort) |
 | Test | 测试 | cè shì | - |
-| Tree | 树 | shù | 二叉树 (binary tree) |
+| Tree | 树 | shù | 二叉树 (binary tree), 二叉查找树 (binary search tree), 平衡二叉搜索树 (balanced binary tree), AVL树 (AVL tree), 红黑树 (red black tree), 字典树 (trie), B树 (b-tree) |
 | Variable | 变量 | biàn liàng | - |
 | Version | 版本 | bǎn běn | - |
