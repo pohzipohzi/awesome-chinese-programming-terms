@@ -5,7 +5,7 @@ A list of useful programming terms in chinese
 | - | - | - | - |
 | -ary | 进制 | jìn zhì | 二进制 (binary), 十进制 (decimal), 十六进制 (hexadecimal) |
 | Algorithm | 算法 | suàn fǎ | 算法复杂度 (algorithmic complexity) |
-| Array | 数组 | shù zǔ | - |
+| Array | 数组 | shù zǔ | 子数组 (subarray) |
 | Availability | 可用性 | kě yòng xìng | - |
 | Back End | 后端 | hòu duān | - |
 | Bit Shift | 移位 | yí wèi | - |
@@ -22,9 +22,11 @@ A list of useful programming terms in chinese
 | Coverage | 覆盖率 | fù gài lǜ | 代码覆盖率 (code coverage) |
 | Data Structure | 数据结构 | shù jù jié gòu | - |
 | Database | 数据库 | shù jù kù | 数据库索引 (database index), 数据库视图 (database view) |
+| Definition | 定义 | dìng yì | - |
 | Deploy | 部署 | bù shǔ | - |
 | Documentation | 文档 | wén dàng | - |
 | Download | 下载 | xià zǎi | - |
+| Dynamic Programming | 动态规划 | dòng tài guī huà | - |
 | First In First Out (FIFO) | 先进先出 | xiān jìn xiān chū | - |
 | Front End | 前端 | qián duān | - |
 | Function | 函数 | hán shù | - |
@@ -49,6 +51,7 @@ A list of useful programming terms in chinese
 | Recursive | 递归 | dì guī | - |
 | Release | 发布 | fā bù | - |
 | Search | 搜索 | sōu suǒ | 深度优先搜索 (depth-first search), 广度优先搜索 (breadth-first search) |
+| Sequence | 序列 | xù liè | 子序列 (subsequence) |
 | Shard | 分片 | fēn piàn | - |
 | Sort | 排序 | pái xù | 比较类排序 (comparison-based sort), 非比较类排序 (non-comparison-based sort), 冒泡排序 (bubble sort), 选择排序 (selection sort), 插入排序 (insertion sort), 希尔排序 (shell sort), 归并排序 (merge sort), 快速排序 (quick sort), 堆排序 (heap sort), 计数排序 (counting sort), 桶排序 (bucket sort), 基数排序 (radix sort), 拓扑排序 (topological sort) |
 | Stack | 堆叠 | duī dié | - |
