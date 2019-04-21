@@ -32,8 +32,8 @@ A list of useful programming terms in chinese
 | Function | 函数 | hán shù | - |
 | Graph | 图 | tú | 二分图 (bipartite graph), 有向图 (directed graph), 有向无环图 (directed acyclic graph) |
 | Install | 安装 | ān zhuānɡ | npm安装 (npm install) |
-| Linked List | 链表 | liàn biǎo | - |
 | Last In First Out (LIFO) | 后进先出 | hòu jìn xiān chū | - |
+| Linked List | 链表 | liàn biǎo | - |
 | Log | 日志 | rì zhì | - |
 | Logic | 逻辑 | luó jí | - |
 | Loop | 循环 | xún huán | - |
