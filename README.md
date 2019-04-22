@@ -49,7 +49,8 @@ A list of useful programming terms in chinese
 | Partition | 分区 | fēn qū | 容忍网络分区 (partition tolerance), 网络分区 (network partition), 磁盘分区 (disk partition) |
 | Path | 通路 | tōng lù | - |
 | Port | 端口 | duān kǒu | - |
-| Program (verb) | 编程 | biān chéng | 并发编程 (concurrent programming)  |
+| Program (verb) | 编程 | biān chéng | 并发编程 (concurrent programming) |
+| Protocol | 协议 | xié yì | 网络协议 (network protocol) |
 | Pull Request | 拉请求 | lā qǐng qiú | 更新拉请求 (update pull request) |
 | Queue | 队列 | duì liè | 消息队列 (message queue) |
 | Recursive | 递归 | dì guī | - |
