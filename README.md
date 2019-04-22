@@ -51,7 +51,7 @@ A list of useful programming terms in chinese
 | Port | 端口 | duān kǒu | - |
 | Program (verb) | 编程 | biān chéng | 并发编程 (concurrent programming)  |
 | Pull Request | 拉请求 | lā qǐng qiú | 更新拉请求 (update pull request) |
-| Queue | 队列 | duì liè | - |
+| Queue | 队列 | duì liè | 消息队列 (message queue) |
 | Recursive | 递归 | dì guī | - |
 | Release | 发布 | fā bù | - |
 | Search | 搜索 | sōu suǒ | 深度优先搜索 (depth-first search), 广度优先搜索 (breadth-first search) |
