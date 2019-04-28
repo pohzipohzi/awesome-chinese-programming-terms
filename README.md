@@ -46,6 +46,7 @@ A list of useful programming terms in chinese
 | Node | 结点 | jié diǎn | 叶结点 (leaf node), 左结点 (left node), 右结点 (right node) |
 | Operating System | 操作系统 | cāo zuò xì tǒng | - |
 | Optimize | 优化 | yōu huà | - |
+| Package | 包 | bāo | 安装包 (installation package) |
 | Partition | 分区 | fēn qū | 容忍网络分区 (partition tolerance), 网络分区 (network partition), 磁盘分区 (disk partition) |
 | Path | 通路 | tōng lù | - |
 | Port | 端口 | duān kǒu | - |
