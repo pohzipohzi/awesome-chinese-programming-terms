@@ -5,6 +5,7 @@ A list of useful programming terms in chinese
 | - | - | - | - |
 | -ary | 进制 | jìn zhì | 二进制 (binary), 十进制 (decimal), 十六进制 (hexadecimal) |
 | Algorithm | 算法 | suàn fǎ | 算法复杂度 (algorithmic complexity) |
+| Asynchronous | 异步 | yì bù | - |
 | Array | 数组 | shù zǔ | 子数组 (subarray) |
 | Availability | 可用性 | kě yòng xìng | - |
 | Back End | 后端 | hòu duān | - |
@@ -19,7 +20,7 @@ A list of useful programming terms in chinese
 | Combinatorics | 组合数学 | zǔ hé shù xué | - |
 | Command | 命令 | mìng lìng | - |
 | Concurrency | 并发 | bìng fā | - |
-| Consistency | 一致性 | yī zhì xìng | - |
+| Consistency | 一致性 | yī zhì xìng | 最终一致性 (eventual consistency) |
 | Coverage | 覆盖率 | fù gài lǜ | 代码覆盖率 (code coverage) |
 | Data Structure | 数据结构 | shù jù jié gòu | - |
 | Database | 数据库 | shù jù kù | 数据库索引 (database index), 数据库视图 (database view) |
@@ -64,6 +65,7 @@ A list of useful programming terms in chinese
 | Stack | 堆叠 | duī dié | - |
 | Style Guide | 风格指南 | fēng gé zhǐ nán | - |
 | Symbol | 符号 | fú hào | 小于符号 ("<"), 大于符号 (">"), 二元运算符 (binary operator) |
+| Synchronous | 同步 | tóng bù | - |
 | System Design | 系统设计 | xì tǒng shè jì | - |
 | Test | 测试 | cè shì | - |
 | Tree | 树 | shù | 二叉树 (binary tree), 二叉查找树 (binary search tree), 平衡二叉搜索树 (balanced binary tree), AVL树 (AVL tree), 红黑树 (red black tree), 字典树 (trie), B树 (b-tree) |
