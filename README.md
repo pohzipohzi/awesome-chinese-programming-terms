@@ -26,7 +26,7 @@ A list of useful programming terms in chinese
 | Database | 数据库 | shù jù kù | 数据库索引 (database index), 数据库视图 (database view) |
 | Definition | 定义 | dìng yì | - |
 | Deploy | 部署 | bù shǔ | - |
-| Documentation | 文档 | wén dàng | - |
+| Documentation | 文档 | wén dàng | 文档对象模型 (document object model) |
 | Download | 下载 | xià zǎi | - |
 | Dynamic Programming | 动态规划 | dòng tài guī huà | - |
 | First In First Out (FIFO) | 先进先出 | xiān jìn xiān chū | - |
@@ -45,6 +45,7 @@ A list of useful programming terms in chinese
 | Negative Sign | 负号 | fù hào | - |
 | Network | 网络 | wǎng luò | - |
 | Node | 结点 | jié diǎn | 叶结点 (leaf node), 左结点 (left node), 右结点 (right node) |
+| Object | 对象 | duì xiàng | 面向对象程序设计 (object-oriented programming) |
 | Operating System | 操作系统 | cāo zuò xì tǒng | - |
 | Optimize | 优化 | yōu huà | - |
 | Package | 包 | bāo | 安装包 (installation package) |
@@ -63,6 +64,7 @@ A list of useful programming terms in chinese
 | Sort | 排序 | pái xù | 比较类排序 (comparison-based sort), 非比较类排序 (non-comparison-based sort), 冒泡排序 (bubble sort), 选择排序 (selection sort), 插入排序 (insertion sort), 希尔排序 (shell sort), 归并排序 (merge sort), 快速排序 (quick sort), 堆排序 (heap sort), 计数排序 (counting sort), 桶排序 (bucket sort), 基数排序 (radix sort), 拓扑排序 (topological sort) |
 | Source Code | 源码 | yuán mǎ | - |
 | Stack | 堆叠 | duī dié | - |
+| Stream | 流 | liú | 构建流 (build stream), 事件流 (event stream) |
 | Style Guide | 风格指南 | fēng gé zhǐ nán | - |
 | Symbol | 符号 | fú hào | 小于符号 ("<"), 大于符号 (">"), 二元运算符 (binary operator) |
 | Synchronous | 同步 | tóng bù | - |
