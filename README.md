@@ -53,6 +53,7 @@ A list of useful programming terms in chinese
 | Path | 通路 | tōng lù | - |
 | Port | 端口 | duān kǒu | - |
 | Program (verb) | 编程 | biān chéng | 并发编程 (concurrent programming) |
+| Project | 项目 | xiàng mù | - |
 | Protocol | 协议 | xié yì | 网络协议 (network protocol) |
 | Pull Request | 拉请求 | lā qǐng qiú | 更新拉请求 (update pull request) |
 | Queue | 队列 | duì liè | 消息队列 (message queue) |
