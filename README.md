@@ -1,4 +1,5 @@
-# Awesome Chinese Programming Terms
+# Awesome Chinese Programming Terms [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A list of useful programming terms in chinese
 
 | Term | Chinese | Pinyin | Usage |
