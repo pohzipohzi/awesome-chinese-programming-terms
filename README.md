@@ -24,7 +24,7 @@ A list of useful programming terms in chinese
 | Consistency | 一致性 | yī zhì xìng | 最终一致性 (eventual consistency) |
 | Coverage | 覆盖率 | fù gài lǜ | 代码覆盖率 (code coverage) |
 | Data Structure | 数据结构 | shù jù jié gòu | - |
-| Database | 数据库 | shù jù kù | 数据库索引 (database index), 数据库视图 (database view) |
+| Database | 数据库 | shù jù kù | 数据库索引 (database index), 数据库视图 (database view), 关系数据库 (relational database) |
 | Definition | 定义 | dìng yì | - |
 | Deploy | 部署 | bù shǔ | - |
 | Documentation | 文档 | wén dàng | 文档对象模型 (document object model) |
