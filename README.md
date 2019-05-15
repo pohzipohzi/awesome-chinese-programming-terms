@@ -21,6 +21,7 @@ A list of useful programming terms in chinese
 | Combinatorics | 组合数学 | zǔ hé shù xué | - |
 | Command | 命令 | mìng lìng | - |
 | Concurrency | 并发 | bìng fā | - |
+| Configuration | 配置 | pèi zhì | - |
 | Consistency | 一致性 | yī zhì xìng | 最终一致性 (eventual consistency) |
 | Coverage | 覆盖率 | fù gài lǜ | 代码覆盖率 (code coverage) |
 | Data | 数据 | shù jù | 数据结构 (data structure), 数据科学家 (data scientist), 数据模型 (data model) |
