@@ -77,3 +77,4 @@ A list of useful programming terms in chinese
 | Tree | 树 | shù | 二叉树 (binary tree), 二叉查找树 (binary search tree), 平衡二叉搜索树 (balanced binary tree), AVL树 (AVL tree), 红黑树 (red black tree), 字典树 (trie), B树 (b-tree) |
 | Variable | 变量 | biàn liàng | - |
 | Version | 版本 | bǎn běn | - |
+| Virtual Machine | 虚拟机 | xū nǐ jī | - |
