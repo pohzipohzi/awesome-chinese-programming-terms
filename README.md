@@ -20,7 +20,7 @@ A list of useful programming terms in chinese
 | Code | 代码 | dài mǎ | - |
 | Combinatorics | 组合数学 | zǔ hé shù xué | - |
 | Command | 命令 | mìng lìng | - |
-| Concurrency | 并发 | bìng fā | - |
+| Concurrency | 并发 | bìng fā | 并发编程 (concurrent programming) |
 | Configuration | 配置 | pèi zhì | - |
 | Consistency | 一致性 | yī zhì xìng | 最终一致性 (eventual consistency) |
 | Coverage | 覆盖率 | fù gài lǜ | 代码覆盖率 (code coverage) |
@@ -32,12 +32,13 @@ A list of useful programming terms in chinese
 | Documentation | 文档 | wén dàng | 文档对象模型 (document object model) |
 | Download | 下载 | xià zǎi | - |
 | Dynamic Programming | 动态规划 | dòng tài guī huà | - |
+| File | 文件 | wén jiàn | 文件夹 (file folder), 文件系统 (file system) |
 | First In First Out (FIFO) | 先进先出 | xiān jìn xiān chū | - |
 | Front End | 前端 | qián duān | - |
 | Function | 函数 | hán shù | - |
 | Graph | 图 | tú | 二分图 (bipartite graph), 有向图 (directed graph), 有向无环图 (directed acyclic graph) |
 | Implement | 实现 | shí xiàn | - |
-| Install | 安装 | ān zhuānɡ | npm安装 (npm install) |
+| Install | 安装 | ān zhuānɡ | 安装包 (installation package) |
 | Interface | 接口 | jiē kǒu | - |
 | Last In First Out (LIFO) | 后进先出 | hòu jìn xiān chū | - |
 | Linked List | 链表 | liàn biǎo | - |
@@ -51,11 +52,11 @@ A list of useful programming terms in chinese
 | Object | 对象 | duì xiàng | 面向对象程序设计 (object-oriented programming) |
 | Operating System | 操作系统 | cāo zuò xì tǒng | - |
 | Optimize | 优化 | yōu huà | - |
-| Package | 包 | bāo | 安装包 (installation package) |
+| Package | 包 | bāo | - |
 | Partition | 分区 | fēn qū | 容忍网络分区 (partition tolerance), 网络分区 (network partition), 磁盘分区 (disk partition) |
 | Path | 通路 | tōng lù | - |
 | Port | 端口 | duān kǒu | - |
-| Program (verb) | 编程 | biān chéng | 并发编程 (concurrent programming) |
+| Program (verb) | 编程 | biān chéng | - |
 | Project | 项目 | xiàng mù | - |
 | Protocol | 协议 | xié yì | 网络协议 (network protocol) |
 | Pull Request | 拉请求 | lā qǐng qiú | 更新拉请求 (update pull request) |
