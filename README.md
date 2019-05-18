@@ -8,7 +8,7 @@ A list of useful programming terms in chinese
 | Algorithm | 算法 | suàn fǎ | 算法复杂度 (algorithmic complexity) |
 | Asynchronous | 异步 | yì bù | - |
 | Array | 数组 | shù zǔ | 子数组 (subarray) |
-| Availability | 可用性 | kě yòng xìng | - |
+| Available | 可用 | kě yòng | 可用性 (availability) |
 | Back End | 后端 | hòu duān | - |
 | Bit Shift | 移位 | yí wèi | - |
 | Brackets / Parentheses | 括号 | kuò hào | - |
@@ -22,7 +22,7 @@ A list of useful programming terms in chinese
 | Command | 命令 | mìng lìng | - |
 | Concurrency | 并发 | bìng fā | 并发编程 (concurrent programming) |
 | Configuration | 配置 | pèi zhì | - |
-| Consistency | 一致性 | yī zhì xìng | 最终一致性 (eventual consistency) |
+| Consistent | 一致 | yī zhì | 一致性 (consistency), 最终一致性 (eventual consistency) |
 | Coverage | 覆盖率 | fù gài lǜ | 代码覆盖率 (code coverage) |
 | Data | 数据 | shù jù | 数据结构 (data structure), 数据科学家 (data scientist), 数据模型 (data model) |
 | Database | 数据库 | shù jù kù | 数据库索引 (database index), 数据库视图 (database view), 关系数据库 (relational database) |
