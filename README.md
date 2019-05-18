@@ -40,6 +40,7 @@ A list of useful programming terms in chinese
 | Implement | 实现 | shí xiàn | - |
 | Install | 安装 | ān zhuānɡ | 安装包 (installation package) |
 | Interface | 接口 | jiē kǒu | - |
+| Keyboard | 键盘 | jiàn pán | 机械键盘 (mechanical keyboard) |
 | Last In First Out (LIFO) | 后进先出 | hòu jìn xiān chū | - |
 | Linked List | 链表 | liàn biǎo | - |
 | Log | 日志 | rì zhì | - |
