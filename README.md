@@ -8,6 +8,7 @@ A list of useful programming terms in chinese
 | Algorithm | 算法 | suàn fǎ | 算法复杂度 (algorithmic complexity) |
 | Asynchronous | 异步 | yì bù | - |
 | Array | 数组 | shù zǔ | 子数组 (subarray) |
+| Atomic | 原子性 | yuán zǐ xìng | - |
 | Available | 可用 | kě yòng | 可用性 (availability) |
 | Back End | 后端 | hòu duān | - |
 | Bit Shift | 移位 | yí wèi | - |
@@ -25,7 +26,7 @@ A list of useful programming terms in chinese
 | Consistent | 一致 | yī zhì | 一致性 (consistency), 最终一致性 (eventual consistency) |
 | Coverage | 覆盖率 | fù gài lǜ | 代码覆盖率 (code coverage) |
 | Data | 数据 | shù jù | 数据结构 (data structure), 数据科学家 (data scientist), 数据模型 (data model) |
-| Database | 数据库 | shù jù kù | 数据库索引 (database index), 数据库视图 (database view), 关系数据库 (relational database) |
+| Database | 数据库 | shù jù kù | 数据库索引 (database index), 数据库视图 (database view), 关系数据库 (relational database), 数据库事务 (database transaction) |
 | Debug | 调试 | tiáo shì | - |
 | Definition | 定义 | dìng yì | - |
 | Deploy | 部署 | bù shǔ | - |
@@ -40,6 +41,7 @@ A list of useful programming terms in chinese
 | Implement | 实现 | shí xiàn | - |
 | Install | 安装 | ān zhuānɡ | 安装包 (installation package) |
 | Interface | 接口 | jiē kǒu | - |
+| Isolation | 隔离性 | gé lí xìng | - |
 | Keyboard | 键盘 | jiàn pán | 机械键盘 (mechanical keyboard) |
 | Last In First Out (LIFO) | 后进先出 | hòu jìn xiān chū | - |
 | Linked List | 链表 | liàn biǎo | - |
@@ -56,6 +58,7 @@ A list of useful programming terms in chinese
 | Package | 包 | bāo | - |
 | Partition | 分区 | fēn qū | 容忍网络分区 (partition tolerance), 磁盘分区 (disk partition) |
 | Path | 通路 | tōng lù | - |
+| Persistence | 持久性 | chí jiǔ xìng | - |
 | Port | 端口 | duān kǒu | - |
 | Program (verb) | 编程 | biān chéng | - |
 | Project | 项目 | xiàng mù | - |
