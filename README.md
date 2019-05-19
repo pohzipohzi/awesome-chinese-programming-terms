@@ -47,6 +47,7 @@ A list of useful programming terms in chinese
 | Last In First Out (LIFO) | 后进先出 | hòu jìn xiān chū | - |
 | Limit | 限制 | xiàn zhì | 时间限制 (time limit) |
 | Linked List | 链表 | liàn biǎo | - |
+| Lint | 皮棉 | pí mián | 皮棉规则 (lint rules) |
 | Log | 日志 | rì zhì | - |
 | Logic | 逻辑 | luó jí | - |
 | Loop | 循环 | xún huán | - |
