@@ -13,7 +13,6 @@ A list of useful programming terms in chinese
 | Available | 可用 | kě yòng | 可用性 (availability) |
 | Back End | 后端 | hòu duān | - |
 | Bit Shift | 移位 | yí wèi | - |
-| Brackets / Parentheses | 括号 | kuò hào | - |
 | Branch | 分支 | fēn zhī | 远程分支 (remote branch), 检出分支 (checkout branch) |
 | Browse | 浏览 | liú lǎn | 浏览器 (browser) |
 | Brute Force | 暴力法 | bào lì fǎ | - |
@@ -54,7 +53,6 @@ A list of useful programming terms in chinese
 | Logic | 逻辑 | luó jí | - |
 | Loop | 循环 | xún huán | - |
 | Modulo | 模 | mó | - |
-| Negative Sign | 负号 | fù hào | - |
 | Network | 网络 | wǎng luò | 网络分区 (network partition) |
 | Node | 结点 | jié diǎn | 叶结点 (leaf node), 左结点 (left node), 右结点 (right node) |
 | Object | 对象 | duì xiàng | 面向对象程序设计 (object-oriented programming) |
@@ -78,12 +76,12 @@ A list of useful programming terms in chinese
 | Search | 搜索 | sōu suǒ | 深度优先搜索 (depth-first search), 广度优先搜索 (breadth-first search) |
 | Sequence | 序列 | xù liè | 子序列 (subsequence) |
 | Shard | 分片 | fēn piàn | - |
+| Sign | 号 | hào | 正号 (plus sign "+"), 负号 (minus sign "-"), 正负号 (plus-minus sign "±"), 小于符号 (less than sign "<"), 大于符号 (greater than sign ">"), 括号 (brackets/parentheses) |
 | Sort | 排序 | pái xù | 比较类排序 (comparison-based sort), 非比较类排序 (non-comparison-based sort), 冒泡排序 (bubble sort), 选择排序 (selection sort), 插入排序 (insertion sort), 希尔排序 (shell sort), 归并排序 (merge sort), 快速排序 (quick sort), 堆排序 (heap sort), 计数排序 (counting sort), 桶排序 (bucket sort), 基数排序 (radix sort), 拓扑排序 (topological sort) |
 | Source Code | 源码 | yuán mǎ | - |
 | Stack | 堆叠 | duī dié | - |
 | Stream | 流 | liú | 构建流 (build stream), 事件流 (event stream) |
 | Style Guide | 风格指南 | fēng gé zhǐ nán | - |
-| Symbol | 符号 | fú hào | 小于符号 ("<"), 大于符号 (">"), 二元运算符 (binary operator) |
 | Synchronous | 同步 | tóng bù | - |
 | System Design | 系统设计 | xì tǒng shè jì | - |
 | Test | 测试 | cè shì | - |
