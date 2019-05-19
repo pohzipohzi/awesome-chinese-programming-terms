@@ -61,7 +61,7 @@ A list of useful programming terms in chinese
 | Optimize | 优化 | yōu huà | - |
 | Package | 包 | bāo | - |
 | Partition | 分区 | fēn qū | 容忍网络分区 (partition tolerance), 磁盘分区 (disk partition) |
-| Password | 密码 | mì mǎ | - |
+| Password | 密码 | mì mǎ | 密码学 (cryptography) |
 | Path | 通路 | tōng lù | - |
 | Permission | 权限 | quán xiàn | 权限管理 (permission management) |
 | Persistence | 持久性 | chí jiǔ xìng | - |
@@ -90,4 +90,4 @@ A list of useful programming terms in chinese
 | User | 用户 | yòng hù | 用户名 (username), 用户帐户 (user account), 用户管理 (user management), 用户权限 (user permissions), 超级用户 (superuser) |
 | Variable | 变量 | biàn liàng | - |
 | Version | 版本 | bǎn běn | - |
-| Virtual Machine | 虚拟机 | xū nǐ jī | - |
+| Virtual | 虚拟 | xū nǐ | 虚拟机 (virtual machine), 虚拟现实 (virtual reality) |
