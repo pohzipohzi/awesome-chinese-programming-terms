@@ -7,7 +7,6 @@ A list of useful programming terms in chinese
 | -ary | 进制 | jìn zhì | 二进制 (binary), 十进制 (decimal), 十六进制 (hexadecimal) |
 | Access | 存取 | cún qǔ | 存取控制 (access control), 资料存取 (data access) |
 | Algorithm | 算法 | suàn fǎ | 算法复杂度 (algorithmic complexity) |
-| Asynchronous | 异步 | yì bù | - |
 | Array | 数组 | shù zǔ | 子数组 (subarray) |
 | Atomic | 原子性 | yuán zǐ xìng | - |
 | Available | 可用 | kě yòng | 可用性 (availability) |
@@ -77,10 +76,10 @@ A list of useful programming terms in chinese
 | Shard | 分片 | fēn piàn | - |
 | Sign | 号 | hào | 正号 (plus sign "+"), 负号 (minus sign "-"), 正负号 (plus-minus sign "±"), 小于符号 (less than sign "<"), 大于符号 (greater than sign ">"), 括号 (brackets/parentheses) |
 | Sort | 排序 | pái xù | 比较类排序 (comparison-based sort), 非比较类排序 (non-comparison-based sort), 冒泡排序 (bubble sort), 选择排序 (selection sort), 插入排序 (insertion sort), 希尔排序 (shell sort), 归并排序 (merge sort), 快速排序 (quick sort), 堆排序 (heap sort), 计数排序 (counting sort), 桶排序 (bucket sort), 基数排序 (radix sort), 拓扑排序 (topological sort) |
+| Step | 步 | bù | 同步 (synchronous), 异步 (asynchronous) |
 | Stack | 堆叠 | duī dié | - |
 | Stream | 流 | liú | 构建流 (build stream), 事件流 (event stream) |
 | Style Guide | 风格指南 | fēng gé zhǐ nán | - |
-| Synchronous | 同步 | tóng bù | - |
 | System Design | 系统设计 | xì tǒng shè jì | - |
 | Test | 测试 | cè shì | - |
 | Tree | 树 | shù | 二叉树 (binary tree), 二叉查找树 (binary search tree), 平衡二叉搜索树 (balanced binary tree), AVL树 (AVL tree), 红黑树 (red black tree), 字典树 (trie), B树 (b-tree) |
