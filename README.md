@@ -11,7 +11,6 @@ A list of useful programming terms in chinese
 | Array | 数组 | shù zǔ | 子数组 (subarray) |
 | Atomic | 原子性 | yuán zǐ xìng | - |
 | Available | 可用 | kě yòng | 可用性 (availability) |
-| Back End | 后端 | hòu duān | - |
 | Bit Shift | 移位 | yí wèi | - |
 | Branch | 分支 | fēn zhī | 远程分支 (remote branch), 检出分支 (checkout branch) |
 | Browse | 浏览 | liú lǎn | 浏览器 (browser) |
@@ -34,9 +33,9 @@ A list of useful programming terms in chinese
 | Download | 下载 | xià zǎi | - |
 | Dynamic Programming | 动态规划 | dòng tài guī huà | - |
 | Encryption | 加密 | jiā mì | 强加密 (strong encryption), 对称加密 (symmetric encryption), 非对称加密 (asymmetric encryption) |
+| End | 端 | duān | 前端 (front end), 后端 (back end), 端口 (port) |
 | File | 文件 | wén jiàn | 文件夹 (file folder), 文件系统 (file system) |
 | First In First Out (FIFO) | 先进先出 | xiān jìn xiān chū | - |
-| Front End | 前端 | qián duān | - |
 | Function | 函数 | hán shù | - |
 | Graph | 图 | tú | 二分图 (bipartite graph), 有向图 (directed graph), 有向无环图 (directed acyclic graph) |
 | Hash | 哈希 / 散列 / 杂凑 | hā xī / sàn liè / zá còu | 哈希函数 (hash function), 哈希表 (hash table), 一致哈希 (consistent hashing), 哈希冲突 (hash collision) |
@@ -65,7 +64,6 @@ A list of useful programming terms in chinese
 | Path | 通路 | tōng lù | - |
 | Permission | 权限 | quán xiàn | 权限管理 (permission management) |
 | Persistence | 持久性 | chí jiǔ xìng | - |
-| Port | 端口 | duān kǒu | - |
 | Program (verb) | 编程 | biān chéng | - |
 | Project | 项目 | xiàng mù | - |
 | Protocol | 协议 | xié yì | 网络协议 (network protocol) |
