@@ -20,8 +20,9 @@ A list of useful programming terms in chinese
 | Cache | 缓存 | huǎn cún | 多级缓存 (multi-level cache) |
 | Class | 类 | lèi | - |
 | Code | 代码 | dài mǎ | - |
-| Combinatorics | 组合数学 | zǔ hé shù xué | - |
+| Combine | 合 | hé | 组合数学 (combinatorics), 合并 (merge), 衍合 (rebase) |
 | Command | 命令 | mìng lìng | - |
+| Commit | 提交 | tí jiāo | 提交历史 (commit history) |
 | Concurrency | 并发 | bìng fā | 并发编程 (concurrent programming) |
 | Configuration | 配置 | pèi zhì | - |
 | Consistent | 一致 | yī zhì | 一致性 (consistency), 最终一致性 (eventual consistency) |
@@ -69,7 +70,7 @@ A list of useful programming terms in chinese
 | Program (verb) | 编程 | biān chéng | - |
 | Project | 项目 | xiàng mù | - |
 | Protocol | 协议 | xié yì | 网络协议 (network protocol) |
-| Pull Request | 拉请求 | lā qǐng qiú | 更新拉请求 (update pull request) |
+| Pull Request | 拉请求 | lā qǐng qiú | 比较和拉请求 (compare and pull request) |
 | Queue | 队列 | duì liè | 消息队列 (message queue) |
 | Range | 范围 | fàn wéi | 结果范围 (range of results) |
 | Recursive | 递归 | dì guī | - |
@@ -87,6 +88,7 @@ A list of useful programming terms in chinese
 | System Design | 系统设计 | xì tǒng shè jì | - |
 | Test | 测试 | cè shì | - |
 | Tree | 树 | shù | 二叉树 (binary tree), 二叉查找树 (binary search tree), 平衡二叉搜索树 (balanced binary tree), AVL树 (AVL tree), 红黑树 (red black tree), 字典树 (trie), B树 (b-tree) |
+| Upload | 上传 | shàng chuán | - |
 | User | 用户 | yòng hù | 用户名 (username), 用户帐户 (user account), 用户管理 (user management), 用户权限 (user permissions), 超级用户 (superuser) |
 | Variable | 变量 | biàn liàng | - |
 | Version | 版本 | bǎn běn | - |
