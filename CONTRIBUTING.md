@@ -6,7 +6,7 @@ Our general philosophy is to keep this list concise and prevent words of similar
 
 The terms `Depth-First Search` and `Breadth-First Search` are of similar nature, thus we condense both of them into one term (`Search`) and leave both of them as usage examples.
 
-Other examples may be harder to determine. For example, `Front End` and `Back End` are terms of similar nature, but the term `End` itself does not make any sense, and the chinese equivalent extends into more distant terms such as `Port`. In this case we leave them as separate terms but the organisation remains debatable.
+Other examples may be harder to determine. For example, `Front End` and `Back End` are terms of similar nature, but the term `End` does not make much sense by itself and it's chinese equivalent extends into more distant terms such as `Port`. In this case grouping the terms may offer better readability but the organisation remains debatable.
 
 ### Prioritize terms over concepts
 
