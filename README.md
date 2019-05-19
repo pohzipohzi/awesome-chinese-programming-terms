@@ -18,7 +18,7 @@ A list of useful programming terms in chinese
 | Brute Force | 暴力法 | bào lì fǎ | - |
 | Cache | 缓存 | huǎn cún | 多级缓存 (multi-level cache) |
 | Class | 类 | lèi | - |
-| Code | 代码 | dài mǎ | - |
+| Code | 代码 | dài mǎ | 代码混淆 (code obfuscation) |
 | Combine | 合 | hé | 组合数学 (combinatorics), 合并 (merge), 衍合 (rebase) |
 | Command | 命令 | mìng lìng | - |
 | Commit | 提交 | tí jiāo | 提交历史 (commit history) |
