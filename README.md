@@ -32,7 +32,7 @@ A list of useful programming terms in chinese
 | Download | 下载 | xià zǎi | - |
 | Dynamic Programming | 动态规划 | dòng tài guī huà | - |
 | Encryption | 加密 | jiā mì | 强加密 (strong encryption), 对称加密 (symmetric encryption), 非对称加密 (asymmetric encryption) |
-| End | 端 | duān | 前端 (front end), 后端 (back end), 端口 (port) |
+| End | 端 | duān | 前端 (front end), 后端 (back end), 端口 (port), 端点 (endpoint) |
 | File | 文件 | wén jiàn | 文件夹 (file folder), 文件系统 (file system) |
 | First In First Out (FIFO) | 先进先出 | xiān jìn xiān chū | - |
 | Function | 函数 | hán shù | - |
