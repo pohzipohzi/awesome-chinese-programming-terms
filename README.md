@@ -17,7 +17,7 @@ A list of useful programming terms in chinese
 | Browse | 浏览 | liú lǎn | 浏览器 (browser) |
 | Cache | 缓存 | huǎn cún | 多级缓存 (multi-level cache) |
 | Class | 类 | lèi | 类方法 (class method) |
-| Code | 代码 | dài mǎ | 代码混淆 (code obfuscation) |
+| Code | 代码 | dài mǎ | 代码混淆 (code obfuscation), 源代码 (source code) |
 | Combine | 合 | hé | 组合数学 (combinatorics), 合并 (merge), 衍合 (rebase) |
 | Command | 命令 | mìng lìng | - |
 | Commit | 提交 | tí jiāo | 提交历史 (commit history) |
@@ -42,7 +42,7 @@ A list of useful programming terms in chinese
 | Hash | 哈希 / 散列 / 杂凑 | hā xī / sàn liè / zá còu | 哈希函数 (hash function), 哈希表 (hash table), 一致哈希 (consistent hashing), 哈希冲突 (hash collision) |
 | Implement | 实现 | shí xiàn | - |
 | Install | 安装 | ān zhuānɡ | 安装包 (installation package) |
-| Instance | 实例 | shí lì | 实例方法 (instance method) |
+| Instance | 实例 | shí lì | 实例方法 (instance method), 实例化 (instantiation) |
 | Interface | 接口 | jiē kǒu | - |
 | Isolation | 隔离性 | gé lí xìng | - |
 | Key | 键 | jiàn | 键盘 (keyboard), 机械键盘 (mechanical keyboard), 关键字 (keyword) |
@@ -79,7 +79,6 @@ A list of useful programming terms in chinese
 | Shard | 分片 | fēn piàn | - |
 | Sign | 号 | hào | 正号 (plus sign "+"), 负号 (minus sign "-"), 正负号 (plus-minus sign "±"), 小于符号 (less than sign "<"), 大于符号 (greater than sign ">"), 括号 (brackets/parentheses) |
 | Sort | 排序 | pái xù | 比较类排序 (comparison-based sort), 非比较类排序 (non-comparison-based sort), 冒泡排序 (bubble sort), 选择排序 (selection sort), 插入排序 (insertion sort), 希尔排序 (shell sort), 归并排序 (merge sort), 快速排序 (quick sort), 堆排序 (heap sort), 计数排序 (counting sort), 桶排序 (bucket sort), 基数排序 (radix sort), 拓扑排序 (topological sort) |
-| Source Code | 源码 | yuán mǎ | - |
 | Stack | 堆叠 | duī dié | - |
 | Stream | 流 | liú | 构建流 (build stream), 事件流 (event stream) |
 | Style Guide | 风格指南 | fēng gé zhǐ nán | - |
