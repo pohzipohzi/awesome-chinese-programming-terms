@@ -15,9 +15,8 @@ A list of useful programming terms in chinese
 | Bit Shift | 移位 | yí wèi | - |
 | Branch | 分支 | fēn zhī | 远程分支 (remote branch), 检出分支 (checkout branch) |
 | Browse | 浏览 | liú lǎn | 浏览器 (browser) |
-| Brute Force | 暴力法 | bào lì fǎ | - |
 | Cache | 缓存 | huǎn cún | 多级缓存 (multi-level cache) |
-| Class | 类 | lèi | - |
+| Class | 类 | lèi | 类方法 (class method) |
 | Code | 代码 | dài mǎ | 代码混淆 (code obfuscation) |
 | Combine | 合 | hé | 组合数学 (combinatorics), 合并 (merge), 衍合 (rebase) |
 | Command | 命令 | mìng lìng | - |
@@ -43,15 +42,17 @@ A list of useful programming terms in chinese
 | Hash | 哈希 / 散列 / 杂凑 | hā xī / sàn liè / zá còu | 哈希函数 (hash function), 哈希表 (hash table), 一致哈希 (consistent hashing), 哈希冲突 (hash collision) |
 | Implement | 实现 | shí xiàn | - |
 | Install | 安装 | ān zhuānɡ | 安装包 (installation package) |
+| Instance | 实例 | shí lì | 实例方法 (instance method) |
 | Interface | 接口 | jiē kǒu | - |
 | Isolation | 隔离性 | gé lí xìng | - |
-| Key | 键 | jiàn | 键盘 (keyboard), 机械键盘 (mechanical keyboard) |
+| Key | 键 | jiàn | 键盘 (keyboard), 机械键盘 (mechanical keyboard), 关键字 (keyword) |
 | Last In First Out (LIFO) | 后进先出 | hòu jìn xiān chū | - |
 | Limit | 限制 | xiàn zhì | 时间限制 (time limit) |
 | Linked List | 链表 | liàn biǎo | - |
 | Log | 日志 | rì zhì | - |
 | Logic | 逻辑 | luó jí | - |
 | Loop | 循环 | xún huán | - |
+| Method | 方法 | fāng fǎ | 暴力方法 (brute force method), 静态方法 (static method) |
 | Modulo | 模 | mó | - |
 | Network | 网络 | wǎng luò | 网络分区 (network partition) |
 | Node | 结点 | jié diǎn | 叶结点 (leaf node), 左结点 (left node), 右结点 (right node) |
