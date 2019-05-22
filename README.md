@@ -35,7 +35,7 @@ A list of useful programming terms in chinese
 | End | 端 | duān | 前端 (front end), 后端 (back end), 端口 (port), 端点 (endpoint) |
 | File | 文件 | wén jiàn | 文件夹 (file folder), 文件系统 (file system) |
 | First In First Out (FIFO) | 先进先出 | xiān jìn xiān chū | - |
-| Function | 函数 | hán shù | - |
+| Function | 函数 | hán shù | 迭代函数 (iterative function), 递归函数 (recursive function) |
 | Graph | 图 | tú | 二分图 (bipartite graph), 有向图 (directed graph), 有向无环图 (directed acyclic graph) |
 | Hash | 哈希 / 散列 / 杂凑 | hā xī / sàn liè / zá còu | 哈希函数 (hash function), 哈希表 (hash table), 一致哈希 (consistent hashing), 哈希冲突 (hash collision) |
 | Implement | 实现 | shí xiàn | - |
@@ -71,7 +71,6 @@ A list of useful programming terms in chinese
 | Pull Request | 拉请求 | lā qǐng qiú | 比较和拉请求 (compare and pull request) |
 | Queue | 队列 | duì liè | 消息队列 (message queue) |
 | Range | 范围 | fàn wéi | 结果范围 (range of results) |
-| Recursive | 递归 | dì guī | - |
 | Release | 发布 | fā bù | - |
 | Search | 搜索 | sōu suǒ | 深度优先搜索 (depth-first search), 广度优先搜索 (breadth-first search) |
 | Sequence | 序列 | xù liè | 子序列 (subsequence) |
