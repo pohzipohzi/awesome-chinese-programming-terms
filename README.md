@@ -51,6 +51,7 @@ A list of useful programming terms in chinese
 | Log | 日志 | rì zhì | - |
 | Logic | 逻辑 | luó jí | - |
 | Loop | 循环 | xún huán | - |
+| Memory | 记忆体 | jì yì tǐ | 随机存取记忆体 (random access memory), 唯读记忆体 (read-only memory) |
 | Method | 方法 | fāng fǎ | 暴力方法 (brute force method), 静态方法 (static method) |
 | Modulo | 模 | mó | - |
 | Network | 网络 | wǎng luò | 网络分区 (network partition) |
