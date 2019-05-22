@@ -83,6 +83,7 @@ A list of useful programming terms in chinese
 | Style Guide | 风格指南 | fēng gé zhǐ nán | - |
 | System Design | 系统设计 | xì tǒng shè jì | - |
 | Test | 测试 | cè shì | - |
+| Thread | 线程 | xiàn chéng | 多线程 (multithreading) |
 | Tree | 树 | shù | 二叉树 (binary tree), 二叉查找树 (binary search tree), 平衡二叉搜索树 (balanced binary tree), AVL树 (AVL tree), 红黑树 (red black tree), 字典树 (trie), B树 (b-tree) |
 | Upload | 上传 | shàng chuán | - |
 | User | 用户 | yòng hù | 用户名 (username), 用户帐户 (user account), 用户管理 (user management), 用户权限 (user permissions), 超级用户 (superuser) |
