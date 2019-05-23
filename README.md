@@ -54,7 +54,7 @@ A list of useful programming terms in chinese
 | Memory | 记忆体 | jì yì tǐ | 随机存取记忆体 (random access memory), 唯读记忆体 (read-only memory) |
 | Method | 方法 | fāng fǎ | 暴力方法 (brute force method), 静态方法 (static method) |
 | Modulo | 模 | mó | - |
-| Network | 网络 | wǎng luò | 网络分区 (network partition) |
+| Network | 网络 | wǎng luò | 网络分区 (network partition), 神经网络 (neural network) |
 | Node | 结点 | jié diǎn | 叶结点 (leaf node), 左结点 (left node), 右结点 (right node) |
 | Object | 对象 | duì xiàng | 面向对象程序设计 (object-oriented programming) |
 | Operating System | 操作系统 | cāo zuò xì tǒng | - |
