@@ -72,7 +72,9 @@ A list of useful programming terms in chinese
 | Queue | 队列 | duì liè | 消息队列 (message queue) |
 | Range | 范围 | fàn wéi | 结果范围 (range of results) |
 | Release | 发布 | fā bù | - |
+| Return | 返回 | fǎn huí | 返回值 (return value) |
 | Search | 搜索 | sōu suǒ | 深度优先搜索 (depth-first search), 广度优先搜索 (breadth-first search) |
+| Set (data type) | 集合 | jí hé | 集合论 (set theory) |
 | Sequence | 序列 | xù liè | 子序列 (subsequence) |
 | Shard | 分片 | fēn piàn | - |
 | Sign | 号 | hào | 正号 (plus sign "+"), 负号 (minus sign "-"), 正负号 (plus-minus sign "±"), 小于符号 (less than sign "<"), 大于符号 (greater than sign ">"), 括号 (brackets/parentheses) |
@@ -87,6 +89,7 @@ A list of useful programming terms in chinese
 | Tree | 树 | shù | 二叉树 (binary tree), 二叉查找树 (binary search tree), 平衡二叉搜索树 (balanced binary tree), AVL树 (AVL tree), 红黑树 (red black tree), 字典树 (trie), B树 (b-tree) |
 | Upload | 上传 | shàng chuán | - |
 | User | 用户 | yòng hù | 用户名 (username), 用户帐户 (user account), 用户管理 (user management), 用户权限 (user permissions), 超级用户 (superuser), 用户验收测试 (user acceptance test) |
+| Value | 值 | zhí | - |
 | Variable | 变量 | biàn liàng | - |
 | Version | 版本 | bǎn běn | - |
 | Virtual | 虚拟 | xū nǐ | 虚拟机 (virtual machine), 虚拟现实 (virtual reality) |
