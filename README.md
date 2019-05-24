@@ -91,5 +91,5 @@ A list of useful programming terms in chinese
 | User | 用户 | yòng hù | 用户名 (username), 用户帐户 (user account), 用户管理 (user management), 用户权限 (user permissions), 超级用户 (superuser), 用户验收测试 (user acceptance test) |
 | Value | 值 | zhí | - |
 | Variable | 变量 | biàn liàng | - |
-| Version | 版本 | bǎn běn | 版本控制 （ |
+| Version | 版本 | bǎn běn | 版本控制 (version control) |
 | Virtual | 虚拟 | xū nǐ | 虚拟机 (virtual machine), 虚拟现实 (virtual reality) |
