@@ -20,10 +20,10 @@ A list of useful programming terms in chinese
 | Command | 命令 | mìng lìng | - |
 | Commit | 提交 | tí jiāo | 提交历史 (commit history) |
 | Concurrency | 并发 | bìng fā | 并发编程 (concurrent programming) |
-| Configuration | 配置 | pèi zhì | - |
+| Configure | 配置 | pèi zhì | - |
 | Consistent | 一致 | yī zhì | 一致性 (consistency), 最终一致性 (eventual consistency) |
 | Coverage | 覆盖率 | fù gài lǜ | 代码覆盖率 (code coverage) |
-| Data | 数据 | shù jù | 数据结构 (data structure), 数据科学家 (data scientist), 数据模型 (data model), 数据映射 (data mapping) |
+| Data | 数据 | shù jù | 数据结构 (data structure), 数据科学家 (data scientist), 数据模型 (data model), 数据映射 (data mapping)， 脏数据 (dirty data) |
 | Database | 数据库 | shù jù kù | 数据库索引 (database index), 数据库视图 (database view), 关系数据库 (relational database), 数据库事务 (database transaction) |
 | Debug | 调试 | tiáo shì | - |
 | Definition | 定义 | dìng yì | - |
@@ -37,6 +37,7 @@ A list of useful programming terms in chinese
 | First In First Out (FIFO) | 先进先出 | xiān jìn xiān chū | - |
 | Function | 函数 | hán shù | 迭代函数 (iterative function), 递归函数 (recursive function) |
 | Graph | 图 | tú | 二分图 (bipartite graph), 有向图 (directed graph), 有向无环图 (directed acyclic graph) |
+| Guide | 指南 | zhǐ nán | 风格指南 (style guide), 配置指南 (configuration guide), 使用指南 (usage guide), 用户指南 (user guide) |
 | Hash | 哈希 / 散列 / 杂凑 | hā xī / sàn liè / zá còu | 哈希函数 (hash function), 哈希表 (hash table), 一致哈希 (consistent hashing), 哈希冲突 (hash collision) |
 | Implement | 实现 | shí xiàn | - |
 | Install | 安装 | ān zhuānɡ | 安装包 (installation package) |
@@ -82,7 +83,6 @@ A list of useful programming terms in chinese
 | Step | 步 | bù | 同步 (synchronous), 异步 (asynchronous) |
 | Stack | 堆叠 | duī dié | - |
 | Stream | 流 | liú | 构建流 (build stream), 事件流 (event stream) |
-| Style Guide | 风格指南 | fēng gé zhǐ nán | - |
 | System Design | 系统设计 | xì tǒng shè jì | - |
 | Test | 测试 | cè shì | 单元测试 (unit test), 集成测试 (integration test), 验收测试 (acceptance test), 回归测试 (regression test) |
 | Thread | 线程 | xiàn chéng | 多线程 (multithreading) |
