@@ -13,8 +13,10 @@ A list of useful programming terms in chinese
 | Bit Shift | 移位 | yí wèi | - |
 | Branch | 分支 | fēn zhī | 远程分支 (remote branch), 检出分支 (checkout branch) |
 | Browse | 浏览 | liú lǎn | 浏览器 (browser) |
+| Buffer | 缓冲 | huǎn chōng | 缓冲区溢出 (buffer overflow) |
 | Cache | 缓存 | huǎn cún | 多级缓存 (multi-level cache) |
 | Class | 类 | lèi | 类方法 (class method) |
+| Client | 客户 | kè hù | 客户服务器模式 (client-server model), 客户端 (client side), 客户端库 (client side library) |
 | Code | 代码 | dài mǎ | 代码混淆 (code obfuscation), 源代码 (source code) |
 | Combine | 合 | hé | 组合数学 (combinatorics), 合并 (merge), 衍合 (rebase) |
 | Command | 命令 | mìng lìng | - |
@@ -30,7 +32,8 @@ A list of useful programming terms in chinese
 | Deploy | 部署 | bù shǔ | - |
 | Documentation | 文档 | wén dàng | 文档对象模型 (document object model) |
 | Download | 下载 | xià zǎi | - |
-| Dynamic Programming | 动态规划 | dòng tài guī huà | - |
+| Dynamic | 动态 | dòng tài | 动态规划 (dynamic programming) |
+| Encapsulate | 封装 | fēng zhuāng | 封装性 (encapsulation) |
 | Encryption | 加密 | jiā mì | 强加密 (strong encryption), 对称加密 (symmetric encryption), 非对称加密 (asymmetric encryption) |
 | End | 端 | duān | 前端 (front end), 后端 (back end), 端口 (port), 端点 (endpoint) |
 | File | 文件 | wén jiàn | 文件夹 (file folder), 文件系统 (file system) |
@@ -40,6 +43,7 @@ A list of useful programming terms in chinese
 | Guide | 指南 | zhǐ nán | 风格指南 (style guide), 配置指南 (configuration guide), 使用指南 (usage guide), 用户指南 (user guide) |
 | Hash | 哈希 / 散列 / 杂凑 | hā xī / sàn liè / zá còu | 哈希函数 (hash function), 哈希表 (hash table), 一致哈希 (consistent hashing), 哈希冲突 (hash collision) |
 | Implement | 实现 | shí xiàn | - |
+| Inherit | 继承 | jì chéng | 继承性 (inheritance) |
 | Install | 安装 | ān zhuānɡ | 安装包 (installation package) |
 | Instance | 实例 | shí lì | 实例方法 (instance method), 实例化 (instantiation) |
 | Interface | 接口 | jiē kǒu | - |
@@ -53,7 +57,7 @@ A list of useful programming terms in chinese
 | Logic | 逻辑 | luó jí | - |
 | Loop | 循环 | xún huán | - |
 | Memory | 记忆体 | jì yì tǐ | 随机存取记忆体 (random access memory), 唯读记忆体 (read-only memory) |
-| Method | 方法 | fāng fǎ | 暴力方法 (brute force method), 静态方法 (static method) |
+| Method | 方法 | fāng fǎ | 暴力方法 (brute force method) |
 | Modulo | 模 | mó | - |
 | Network | 网络 | wǎng luò | 网络分区 (network partition), 神经网络 (neural network) |
 | Node | 结点 | jié diǎn | 叶结点 (leaf node), 左结点 (left node), 右结点 (right node) |
@@ -66,6 +70,7 @@ A list of useful programming terms in chinese
 | Path | 通路 | tōng lù | - |
 | Permission | 权限 | quán xiàn | 权限管理 (permission management) |
 | Persistence | 持久性 | chí jiǔ xìng | - |
+| Polymorphic | 多态 | duō tài | 多态性 (polymorphism) |
 | Program (verb) | 编程 | biān chéng | - |
 | Project | 项目 | xiàng mù | - |
 | Protocol | 协议 | xié yì | 网络协议 (network protocol) |
@@ -75,13 +80,16 @@ A list of useful programming terms in chinese
 | Release | 发布 | fā bù | - |
 | Return | 返回 | fǎn huí | 返回值 (return value) |
 | Search | 搜索 | sōu suǒ | 深度优先搜索 (depth-first search), 广度优先搜索 (breadth-first search) |
-| Set (data type) | 集合 | jí hé | 集合论 (set theory) |
+| Server | 服务器 | fú wù qì | 状态服务器 (stateful server), 无状态服务器 (stateless server), 服务器端 (server side) |
+| Set (data structure) | 集合 | jí hé | 集合论 (set theory) |
 | Sequence | 序列 | xù liè | 子序列 (subsequence) |
 | Shard | 分片 | fēn piàn | - |
 | Sign | 号 | hào | 正号 (plus sign "+"), 负号 (minus sign "-"), 正负号 (plus-minus sign "±"), 小于符号 (less than sign "<"), 大于符号 (greater than sign ">"), 括号 (brackets/parentheses) |
 | Sort | 排序 | pái xù | 比较类排序 (comparison-based sort), 非比较类排序 (non-comparison-based sort), 冒泡排序 (bubble sort), 选择排序 (selection sort), 插入排序 (insertion sort), 希尔排序 (shell sort), 归并排序 (merge sort), 快速排序 (quick sort), 堆排序 (heap sort), 计数排序 (counting sort), 桶排序 (bucket sort), 基数排序 (radix sort), 拓扑排序 (topological sort) |
 | Step | 步 | bù | 同步 (synchronous), 异步 (asynchronous) |
-| Stack | 堆叠 | duī dié | - |
+| Stack (data structure) | 堆栈 | duī zhàn | 堆栈溢出 (stack overflow) |
+| State | 状态 | zhuàng tài | 状态机 (state machine), 有限状态机 (finite-state machine), 状态化请求 (stateful request) |
+| Static | 静态 | jìng tài | 静态方法 (static method), 静态变量 (static variable) |
 | Stream | 流 | liú | 构建流 (build stream), 事件流 (event stream) |
 | System Design | 系统设计 | xì tǒng shè jì | - |
 | Test | 测试 | cè shì | 单元测试 (unit test), 集成测试 (integration test), 验收测试 (acceptance test), 回归测试 (regression test) |
