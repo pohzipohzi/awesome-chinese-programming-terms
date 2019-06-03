@@ -79,6 +79,7 @@ A list of useful programming terms in chinese
 | Range | 范围 | fàn wéi | 结果范围 (range of results) |
 | Release | 发布 | fā bù | - |
 | Return | 返回 | fǎn huí | 返回值 (return value) |
+| Script | 脚本 | jiǎo běn | 脚本语言 (scripting language) |
 | Search | 搜索 | sōu suǒ | 深度优先搜索 (depth-first search), 广度优先搜索 (breadth-first search) |
 | Server | 服务器 | fú wù qì | 状态服务器 (stateful server), 无状态服务器 (stateless server), 服务器端 (server side) |
 | Set (data structure) | 集合 | jí hé | 集合论 (set theory) |
