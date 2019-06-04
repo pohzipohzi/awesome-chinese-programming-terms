@@ -75,7 +75,7 @@ A list of useful programming terms in chinese
 | Project | 项目 | xiàng mù | - |
 | Protocol | 协议 | xié yì | 网络协议 (network protocol) |
 | Pull Request | 拉请求 | lā qǐng qiú | 比较和拉请求 (compare and pull request) |
-| Queue | 队列 | duì liè | 消息队列 (message queue) |
+| Queue | 队列 | duì liè | 消息队列 (message queue), 优先队列 (priority queue) |
 | Range | 范围 | fàn wéi | 结果范围 (range of results) |
 | Release | 发布 | fā bù | - |
 | Return | 返回 | fǎn huí | 返回值 (return value) |
