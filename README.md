@@ -71,7 +71,7 @@ A list of useful programming terms in chinese
 | Permission | 权限 | quán xiàn | 权限管理 (permission management) |
 | Persistence | 持久性 | chí jiǔ xìng | - |
 | Polymorphic | 多态 | duō tài | 多态性 (polymorphism) |
-| Program (verb) | 编程 | biān chéng | - |
+| Program (verb) | 编程 | biān chéng | 编程师 (programmer) |
 | Project | 项目 | xiàng mù | - |
 | Protocol | 协议 | xié yì | 网络协议 (network protocol) |
 | Pull Request | 拉请求 | lā qǐng qiú | 比较和拉请求 (compare and pull request) |
