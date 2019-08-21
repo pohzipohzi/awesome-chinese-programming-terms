@@ -5,7 +5,7 @@ A list of useful programming terms in chinese
 | Term | Chinese | Pinyin | Usage |
 | - | - | - | - |
 | -ary | 进制 | jìn zhì | 二进制 (binary), 十进制 (decimal), 十六进制 (hexadecimal) |
-| Access | 存取 | cún qǔ | 存取控制 (access control), 资料存取 (data access) |
+| Access | 存取 | cún qǔ | 存取控制 (access control), 资料存取 (data access), 网络存取 (internet access) |
 | Algorithm | 算法 | suàn fǎ | 算法复杂度 (algorithmic complexity) |
 | Array | 数组 | shù zǔ | 子数组 (subarray) |
 | Atomic | 原子性 | yuán zǐ xìng | - |
@@ -92,6 +92,7 @@ A list of useful programming terms in chinese
 | Stack (data structure) | 堆栈 | duī zhàn | 堆栈溢出 (stack overflow) |
 | State | 状态 | zhuàng tài | 状态机 (state machine), 有限状态机 (finite-state machine), 状态化请求 (stateful request) |
 | Static | 静态 | jìng tài | 静态方法 (static method), 静态变量 (static variable) |
+| Storage | 存储 | cún chú | 存储过程 (stored procedure) |
 | Stream | 流 | liú | 构建流 (build stream), 事件流 (event stream) |
 | System Design | 系统设计 | xì tǒng shè jì | - |
 | Test | 测试 | cè shì | 单元测试 (unit test), 集成测试 (integration test), 验收测试 (acceptance test), 回归测试 (regression test) |
