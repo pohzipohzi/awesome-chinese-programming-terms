@@ -60,6 +60,7 @@ A list of useful programming terms in chinese
 | Method | 方法 | fāng fǎ | 暴力方法 (brute force method) |
 | Middleware | 中间件 | zhōng jiān jiàn | - |
 | Modulo | 模 | mó | - |
+| Mutually Exclusive | 互斥 | hù chì | 互斥锁 (mutex lock) |
 | Network | 网络 | wǎng luò | 网络分区 (network partition), 神经网络 (neural network) |
 | Node | 结点 | jié diǎn | 叶结点 (leaf node), 左结点 (left node), 右结点 (right node) |
 | Object | 对象 | duì xiàng | 面向对象程序设计 (object-oriented programming) |
@@ -82,6 +83,7 @@ A list of useful programming terms in chinese
 | Return | 返回 | fǎn huí | 返回值 (return value) |
 | Script | 脚本 | jiǎo běn | 脚本语言 (scripting language) |
 | Search | 搜索 | sōu suǒ | 深度优先搜索 (depth-first search), 广度优先搜索 (breadth-first search) |
+| Semaphore | 信号量 | xìn hào liàng | 计数信号量 (counting semaphore), 二进制信号量 (binary semaphore) |
 | Server | 服务器 | fú wù qì | 状态服务器 (stateful server), 无状态服务器 (stateless server), 服务器端 (server side) |
 | Set (data structure) | 集合 | jí hé | 集合论 (set theory) |
 | Sequence | 序列 | xù liè | 子序列 (subsequence) |
