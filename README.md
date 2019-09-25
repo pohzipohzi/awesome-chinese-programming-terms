@@ -45,6 +45,7 @@ A list of useful programming terms in chinese
 | Idempotent | 幂等 | mì děng | - |
 | Implement | 实现 | shí xiàn | - |
 | Inherit | 继承 | jì chéng | 继承性 (inheritance) |
+| Input | 输入 | shū rù | - |
 | Install | 安装 | ān zhuānɡ | 安装包 (installation package) |
 | Instance | 实例 | shí lì | 实例方法 (instance method), 实例化 (instantiation) |
 | Interface | 接口 | jiē kǒu | - |
@@ -68,6 +69,7 @@ A list of useful programming terms in chinese
 | Object | 对象 | duì xiàng | 面向对象程序设计 (object-oriented programming) |
 | Operating System | 操作系统 | cāo zuò xì tǒng | - |
 | Optimize | 优化 | yōu huà | - |
+| Output | 输出 | shū chū | - |
 | Package | 包 | bāo | - |
 | Partition | 分区 | fēn qū | 容忍网络分区 (partition tolerance), 磁盘分区 (disk partition) |
 | Password | 密码 | mì mǎ | 密码学 (cryptography) |
@@ -84,6 +86,7 @@ A list of useful programming terms in chinese
 | Range | 范围 | fàn wéi | 结果范围 (range of results) |
 | Release | 发布 | fā bù | - |
 | Return | 返回 | fǎn huí | 返回值 (return value) |
+| Run | 运行 | yùn xíng | - |
 | Script | 脚本 | jiǎo běn | 脚本语言 (scripting language) |
 | Search | 搜索 | sōu suǒ | 深度优先搜索 (depth-first search), 广度优先搜索 (breadth-first search) |
 | Semaphore | 信号量 | xìn hào liàng | 计数信号量 (counting semaphore), 二进制信号量 (binary semaphore) |
