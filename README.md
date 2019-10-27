@@ -81,10 +81,10 @@ A list of useful programming terms in chinese
 | Program (verb) | 编程 | biān chéng | 编程师 (programmer) |
 | Project | 项目 | xiàng mù | - |
 | Protocol | 协议 | xié yì | 网络协议 (network protocol) |
-| Pull Request | 拉请求 | lā qǐng qiú | 比较和拉请求 (compare and pull request) |
 | Queue | 队列 | duì liè | 消息队列 (message queue), 优先队列 (priority queue) |
 | Range | 范围 | fàn wéi | 结果范围 (range of results) |
 | Release | 发布 | fā bù | - |
+| Request | 请求 | qǐng qiú | 拉请求 (pull request), 读请求 (read request), 写请求 (write request), 状态化请求 (stateful request) |
 | Return | 返回 | fǎn huí | 返回值 (return value) |
 | Run | 运行 | yùn xíng | - |
 | Script | 脚本 | jiǎo běn | 脚本语言 (scripting language) |
@@ -98,7 +98,7 @@ A list of useful programming terms in chinese
 | Sort | 排序 | pái xù | 比较类排序 (comparison-based sort), 非比较类排序 (non-comparison-based sort), 冒泡排序 (bubble sort), 选择排序 (selection sort), 插入排序 (insertion sort), 希尔排序 (shell sort), 归并排序 (merge sort), 快速排序 (quick sort), 堆排序 (heap sort), 计数排序 (counting sort), 桶排序 (bucket sort), 基数排序 (radix sort), 拓扑排序 (topological sort) |
 | Step | 步 | bù | 同步 (synchronous), 异步 (asynchronous) |
 | Stack (data structure) | 堆栈 | duī zhàn | 堆栈溢出 (stack overflow) |
-| State | 状态 | zhuàng tài | 状态机 (state machine), 有限状态机 (finite-state machine), 状态化请求 (stateful request) |
+| State | 状态 | zhuàng tài | 状态机 (state machine), 有限状态机 (finite-state machine) |
 | Static | 静态 | jìng tài | 静态方法 (static method), 静态变量 (static variable) |
 | Storage | 存储 | cún chú | 存储过程 (stored procedure) |
 | Stream | 流 | liú | 构建流 (build stream), 事件流 (event stream) |
