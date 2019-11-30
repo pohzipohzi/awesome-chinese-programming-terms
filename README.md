@@ -9,6 +9,8 @@ A list of useful programming terms in chinese
 | Algorithm | 算法 | suàn fǎ | 算法复杂度 (algorithmic complexity) |
 | Array | 数组 | shù zǔ | 子数组 (subarray) |
 | Atomic | 原子性 | yuán zǐ xìng | - |
+| Authentication | 认证 | rèn zhèng | - |
+| Authorization | 授权 | shòu quán | - |
 | Available | 可用 | kě yòng | 可用性 (availability) |
 | Bit Shift | 移位 | yí wèi | - |
 | Branch | 分支 | fēn zhī | 远程分支 (remote branch), 检出分支 (checkout branch) |
