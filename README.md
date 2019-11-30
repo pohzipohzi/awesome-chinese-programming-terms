@@ -67,7 +67,6 @@ A list of useful programming terms in chinese
 | Network | 网络 | wǎng luò | 网络分区 (network partition), 神经网络 (neural network) |
 | Node | 结点 | jié diǎn | 叶结点 (leaf node), 左结点 (left node), 右结点 (right node) |
 | Object | 对象 | duì xiàng | 面向对象程序设计 (object-oriented programming) |
-| Operating System | 操作系统 | cāo zuò xì tǒng | - |
 | Optimize | 优化 | yōu huà | - |
 | Option | 选项 | xuǎn xiàng | - |
 | Output | 输出 | shū chū | - |
@@ -104,7 +103,7 @@ A list of useful programming terms in chinese
 | Static | 静态 | jìng tài | 静态方法 (static method), 静态变量 (static variable) |
 | Storage | 存储 | cún chú | 存储过程 (stored procedure) |
 | Stream | 流 | liú | 构建流 (build stream), 事件流 (event stream) |
-| System Design | 系统设计 | xì tǒng shè jì | - |
+| System | 系统 | xì tǒng | 系统设计 (system design), 操作系统 (operating system) |
 | Test | 测试 | cè shì | 单元测试 (unit test), 集成测试 (integration test), 验收测试 (acceptance test), 回归测试 (regression test) |
 | Thread | 线程 | xiàn chéng | 多线程 (multithreading) |
 | Tree | 树 | shù | 二叉树 (binary tree), 二叉查找树 (binary search tree), 平衡二叉搜索树 (balanced binary tree), AVL树 (AVL tree), 红黑树 (red black tree), 字典树 (trie), B树 (b-tree) |
