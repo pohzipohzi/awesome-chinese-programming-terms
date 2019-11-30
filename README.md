@@ -31,7 +31,7 @@ A list of useful programming terms in chinese
 | Database | 数据库 | shù jù kù | 数据库索引 (database index), 数据库视图 (database view), 关系数据库 (relational database), 数据库事务 (database transaction) |
 | Debug | 调试 | tiáo shì | - |
 | Definition | 定义 | dìng yì | - |
-| Deploy | 部署 | bù shǔ | - |
+| Deploy | 部署 | bù shǔ | 蓝绿部署 (blue-green deployment), 金丝雀部署 (canary deployment) |
 | Documentation | 文档 | wén dàng | 文档对象模型 (document object model) |
 | Download | 下载 | xià zǎi | - |
 | Dynamic | 动态 | dòng tài | 动态规划 (dynamic programming) |
