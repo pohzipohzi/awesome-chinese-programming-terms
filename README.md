@@ -91,7 +91,7 @@ A list of useful programming terms in chinese
 | Script | 脚本 | jiǎo běn | 脚本语言 (scripting language) |
 | Search | 搜索 | sōu suǒ | 深度优先搜索 (depth-first search), 广度优先搜索 (breadth-first search) |
 | Semaphore | 信号量 | xìn hào liàng | 计数信号量 (counting semaphore), 二进制信号量 (binary semaphore) |
-| Server | 服务器 | fú wù qì | 状态服务器 (stateful server), 无状态服务器 (stateless server), 服务器端 (server side) |
+| Serve | 服务 | fú wù | 服务器 (server), 服务端 (server side) |
 | Set (data structure) | 集合 | jí hé | 集合论 (set theory) |
 | Sequence | 序列 | xù liè | 子序列 (subsequence) |
 | Shard | 分片 | fēn piàn | - |
