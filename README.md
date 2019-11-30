@@ -69,6 +69,7 @@ A list of useful programming terms in chinese
 | Object | 对象 | duì xiàng | 面向对象程序设计 (object-oriented programming) |
 | Operating System | 操作系统 | cāo zuò xì tǒng | - |
 | Optimize | 优化 | yōu huà | - |
+| Option | 选项 | xuǎn xiàng | - |
 | Output | 输出 | shū chū | - |
 | Package | 包 | bāo | - |
 | Partition | 分区 | fēn qū | 容忍网络分区 (partition tolerance), 磁盘分区 (disk partition) |
