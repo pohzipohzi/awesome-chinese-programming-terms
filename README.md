@@ -5,6 +5,7 @@ A list of useful programming terms in chinese
 | Term | Chinese | Pinyin | Usage |
 | - | - | - | - |
 | -ary | 进制 | jìn zhì | 二进制 (binary), 十进制 (decimal), 十六进制 (hexadecimal) |
+| -ware | 件 | jiàn | 中间件 (middleware), 硬件 (hardware), 软件 (software) |
 | Access | 存取 | cún qǔ | 存取控制 (access control), 资料存取 (data access), 网络存取 (internet access) |
 | Algorithm | 算法 | suàn fǎ | 算法复杂度 (algorithmic complexity) |
 | Array | 数组 | shù zǔ | 子数组 (subarray) |
@@ -63,7 +64,6 @@ A list of useful programming terms in chinese
 | Loop | 循环 | xún huán | - |
 | Memory | 记忆体 | jì yì tǐ | 随机存取记忆体 (random access memory), 唯读记忆体 (read-only memory) |
 | Method | 方法 | fāng fǎ | 暴力方法 (brute force method) |
-| Middleware | 中间件 | zhōng jiān jiàn | - |
 | Modulo | 模 | mó | - |
 | Mutually Exclusive | 互斥 | hù chì | 互斥锁 (mutex lock) |
 | Network | 网络 | wǎng luò | 网络分区 (network partition), 神经网络 (neural network) |
