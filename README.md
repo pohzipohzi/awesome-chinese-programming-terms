@@ -66,7 +66,7 @@ A list of useful programming terms in chinese
 | Method | 方法 | fāng fǎ | 暴力方法 (brute force method) |
 | Modulo | 模 | mó | - |
 | Mutually Exclusive | 互斥 | hù chì | 互斥锁 (mutex lock) |
-| Network | 网络 | wǎng luò | 网络分区 (network partition), 神经网络 (neural network) |
+| Net | 网 | wǎng | 互联网 (internet), 网络 (network), 网络分区 (network partition), 神经网络 (neural network) |
 | Node | 结点 | jié diǎn | 叶结点 (leaf node), 左结点 (left node), 右结点 (right node) |
 | Object | 对象 | duì xiàng | 面向对象程序设计 (object-oriented programming) |
 | Optimize | 优化 | yōu huà | - |
