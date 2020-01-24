@@ -60,6 +60,7 @@ A list of useful programming terms in chinese
 | Lint | 皮棉 | pí mián | 皮棉规则 (lint rules) |
 | Log | 日志 | rì zhì | - |
 | Logic | 逻辑 | luó jí | - |
+| Login | 登录 | dēng lù | - |
 | Load (verb) | 加载 | jiā zài | 懒加载 (lazy loading), 主动加载 (active loading) |
 | Loop | 循环 | xún huán | - |
 | Maintain | 维护 | wéi hù | - |
