@@ -118,4 +118,5 @@ A list of useful programming terms in chinese
 | Value | 值 | zhí | 默认值 (default value) |
 | Variable | 变量 | biàn liàng | 可变变量 (mutable variable), 非可变变量 (immutable variable) |
 | Version | 版本 | bǎn běn | 版本控制 (version control) |
+| Video | 视频 | shì pín | - |
 | Virtual | 虚拟 | xū nǐ | 虚拟机 (virtual machine), 虚拟现实 (virtual reality) |
