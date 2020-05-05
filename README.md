@@ -54,6 +54,7 @@ A list of useful programming terms in chinese
 | Instance | 实例 | shí lì | 实例方法 (instance method), 实例化 (instantiation) |
 | Interface | 接口 | jiē kǒu | - |
 | Isolation | 隔离性 | gé lí xìng | - |
+| Iterate | 迭代 | dié dài | - |
 | Key | 键 | jiàn | 键盘 (keyboard), 机械键盘 (mechanical keyboard), 关键字 (keyword) |
 | Last In First Out (LIFO) | 后进先出 | hòu jìn xiān chū | - |
 | Limit | 限制 | xiàn zhì | 时间限制 (time limit) |
