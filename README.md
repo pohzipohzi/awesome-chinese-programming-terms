@@ -13,6 +13,7 @@ A list of useful programming terms in chinese
 | Authentication | 认证 | rèn zhèng | - |
 | Authorization | 授权 | shòu quán | - |
 | Available | 可用 | kě yòng | 可用性 (availability) |
+| Backtrack | 回溯 | huí sù | - |
 | Bit Shift | 移位 | yí wèi | - |
 | Branch | 分支 | fēn zhī | 远程分支 (remote branch), 检出分支 (checkout branch) |
 | Browse | 浏览 | liú lǎn | 浏览器 (browser) |
