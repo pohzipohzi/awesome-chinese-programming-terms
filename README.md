@@ -90,6 +90,7 @@ A list of useful programming terms in chinese
 | Protocol | 协议 | xié yì | 网络协议 (network protocol) |
 | Queue | 队列 | duì liè | 消息队列 (message queue), 优先队列 (priority queue) |
 | Range | 范围 | fàn wéi | 结果范围 (range of results) |
+| Real-time | 实时 | shí shí | 实时通讯 (real-time communication) |
 | Release | 发布 | fā bù | - |
 | Request | 请求 | qǐng qiú | 拉请求 (pull request), 读请求 (read request), 写请求 (write request), 状态化请求 (stateful request) |
 | Return | 返回 | fǎn huí | 返回值 (return value) |
