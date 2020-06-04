@@ -64,6 +64,7 @@ A list of useful programming terms in chinese
 | Logic | 逻辑 | luó jí | - |
 | Login | 登录 | dēng lù | - |
 | Load (verb) | 加载 | jiā zài | 懒加载 (lazy loading), 主动加载 (active loading) |
+| Load Balancing | 负载均衡 | fù zǎi jūn héng | - |
 | Loop | 循环 | xún huán | - |
 | Maintain | 维护 | wéi hù | - |
 | Memory | 记忆体 | jì yì tǐ | 随机存取记忆体 (random access memory), 唯读记忆体 (read-only memory) |
