@@ -19,6 +19,7 @@ A list of useful programming terms in chinese
 | Browse | 浏览 | liú lǎn | 浏览器 (browser) |
 | Buffer | 缓冲 | huǎn chōng | 缓冲区溢出 (buffer overflow) |
 | Cache | 缓存 | huǎn cún | 多级缓存 (multi-level cache) |
+| Character | 字符 | zì fú | 字符串 (string) |
 | Class | 类 | lèi | 类方法 (class method) |
 | Client | 客户 | kè hù | 客户服务器模式 (client-server model), 客户端 (client side), 客户端库 (client side library) |
 | Code | 代码 | dài mǎ | 代码混淆 (code obfuscation), 源代码 (source code) |
