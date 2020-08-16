@@ -25,7 +25,7 @@ A list of useful programming terms in chinese
 | Cloud | 云 | yún | 云计算 (cloud computing) |
 | Code | 代码 | dài mǎ | 代码混淆 (code obfuscation), 源代码 (source code) |
 | Combine | 合 | hé | 组合数学 (combinatorics), 合并 (merge), 衍合 (rebase) |
-| Command | 命令 | mìng lìng | - |
+| Command | 命令 | mìng lìng | 命令行界面 (command line interface) |
 | Commit | 提交 | tí jiāo | 提交历史 (commit history) |
 | Concurrency | 并发 | bìng fā | 并发编程 (concurrent programming) |
 | Configure | 配置 | pèi zhì | - |
