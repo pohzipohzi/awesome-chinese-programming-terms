@@ -81,6 +81,7 @@ A list of useful programming terms in chinese
 | Option | 选项 | xuǎn xiàng | - |
 | Output | 输出 | shū chū | - |
 | Package | 包 | bāo | - |
+| Parameter | 参数 | cān shù | - |
 | Partition | 分区 | fēn qū | 容忍网络分区 (partition tolerance), 磁盘分区 (disk partition) |
 | Password | 密码 | mì mǎ | 密码学 (cryptography) |
 | Path | 通路 | tōng lù | - |
