@@ -88,6 +88,7 @@ A list of useful programming terms in chinese
 | Permission | 权限 | quán xiàn | 权限管理 (permission management) |
 | Persistence | 持久性 | chí jiǔ xìng | - |
 | Phishing | 钓鱼 | diào yú | 钓鱼邮件 (phishing email) |
+| Plugin | 插件 | chā jiàn | - |
 | Pointer | 指针 | zhǐ zhēn | - |
 | Polymorphic | 多态 | duō tài | 多态性 (polymorphism) |
 | Program (verb) | 编程 | biān chéng | 编程师 (programmer) |
