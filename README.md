@@ -119,6 +119,7 @@ A list of useful programming terms in chinese
 | Storage | 存储 | cún chú | 存储过程 (stored procedure) |
 | Stream | 流 | liú | 构建流 (build stream), 事件流 (event stream) |
 | System | 系统 | xì tǒng | 系统设计 (system design), 操作系统 (operating system) |
+| Tag | 标签 | biāo qiān | - |
 | Test | 测试 | cè shì | 单元测试 (unit test), 集成测试 (integration test), 验收测试 (acceptance test), 回归测试 (regression test), 黑盒测试 (black box test), 白盒测试 (white box test) |
 | Thread | 线程 | xiàn chéng | 多线程 (multithreading) |
 | Tree | 树 | shù | 二叉树 (binary tree), 二叉查找树 (binary search tree), 平衡二叉搜索树 (balanced binary tree), AVL树 (AVL tree), 红黑树 (red black tree), 字典树 (trie), B树 (b-tree) |
