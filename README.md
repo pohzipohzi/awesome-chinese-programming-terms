@@ -63,6 +63,7 @@ A list of useful programming terms in chinese
 | Limit | 限制 | xiàn zhì | 时间限制 (time limit) |
 | Linked List | 链表 | liàn biǎo | - |
 | Lint | 皮棉 | pí mián | 皮棉规则 (lint rules) |
+| Lock | 锁 | suǒ | 分布式锁 (distributed lock), 互斥锁 (mutex lock) |
 | Log | 日志 | rì zhì | - |
 | Logic | 逻辑 | luó jí | - |
 | Login | 登录 | dēng lù | - |
@@ -74,7 +75,6 @@ A list of useful programming terms in chinese
 | Method | 方法 | fāng fǎ | 暴力方法 (brute force method) |
 | Modulo | 模 | mó | - |
 | Monitor | 监控 | jiān kòng | 监控系统 (monitoring system) |
-| Mutually Exclusive | 互斥 | hù chì | 互斥锁 (mutex lock) |
 | Net | 网 | wǎng | 互联网 (internet), 网络 (network), 网络分区 (network partition), 神经网络 (neural network) |
 | Node | 结点 | jié diǎn | 叶结点 (leaf node), 左结点 (left node), 右结点 (right node) |
 | Object | 对象 | duì xiàng | 面向对象程序设计 (object-oriented programming) |
