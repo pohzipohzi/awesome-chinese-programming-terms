@@ -23,6 +23,7 @@ A list of useful programming terms in chinese
 | Class | 类 | lèi | 类方法 (class method) |
 | Client | 客户 | kè hù | 客户服务器模式 (client-server model), 客户端 (client side), 客户端库 (client side library) |
 | Cloud | 云 | yún | 云计算 (cloud computing) |
+| Cluster | 集群 | jí qún | - |
 | Code | 代码 | dài mǎ | 代码混淆 (code obfuscation), 源代码 (source code) |
 | Combine | 合 | hé | 组合数学 (combinatorics), 合并 (merge), 衍合 (rebase) |
 | Command | 命令 | mìng lìng | 命令行界面 (command line interface) |
