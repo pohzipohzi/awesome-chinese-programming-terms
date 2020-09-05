@@ -108,7 +108,7 @@ A list of useful programming terms in chinese
 | Semantics | 语义 | yǔ yì | - |
 | Semaphore | 信号量 | xìn hào liàng | 计数信号量 (counting semaphore), 二进制信号量 (binary semaphore) |
 | Sequence | 序列 | xù liè | 子序列 (subsequence) |
-| Serve | 服务 | fú wù | 服务器 (server), 服务端 (server side) |
+| Serve | 服务 | fú wù | 服务器 (server), 服务端 (server side), 服务发现 (service discovery) |
 | Set (data structure) | 集合 | jí hé | 集合论 (set theory) |
 | Shard | 分片 | fēn piàn | - |
 | Sign | 号 | hào | 正号 (plus sign "+"), 负号 (minus sign "-"), 正负号 (plus-minus sign "±"), 小于符号 (less than sign "<"), 大于符号 (greater than sign ">"), 括号 (brackets/parentheses) |
