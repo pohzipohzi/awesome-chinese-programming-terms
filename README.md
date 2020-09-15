@@ -118,6 +118,7 @@ A list of useful programming terms in chinese
 | Stack (data structure) | 堆栈 | duī zhàn | 堆栈溢出 (stack overflow) |
 | State | 状态 | zhuàng tài | 状态机 (state machine), 有限状态机 (finite-state machine) |
 | Static | 静态 | jìng tài | 静态方法 (static method), 静态变量 (static variable) |
+| Statistic | 统计 | tǒng jì | - |
 | Storage | 存储 | cún chú | 存储过程 (stored procedure) |
 | Stream | 流 | liú | 构建流 (build stream), 事件流 (event stream) |
 | System | 系统 | xì tǒng | 系统设计 (system design), 操作系统 (operating system) |
