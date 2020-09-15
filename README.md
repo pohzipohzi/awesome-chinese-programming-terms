@@ -1,4 +1,4 @@
-# Awesome Chinese Programming Terms [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Chinese Programming Terms
 
 A list of useful programming terms in chinese
 
