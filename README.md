@@ -52,7 +52,7 @@ A list of useful programming terms in chinese
 | Graph | 图 | tú | 二分图 (bipartite graph), 有向图 (directed graph), 有向无环图 (directed acyclic graph) |
 | Guide | 指南 | zhǐ nán | 风格指南 (style guide), 配置指南 (configuration guide), 使用指南 (usage guide), 用户指南 (user guide) |
 | Hash | 哈希 | hā xī | 哈希函数 (hash function), 哈希表 (hash table), 一致哈希 (consistent hashing), 哈希冲突 (hash collision) |
-| Idempotent | 幂等 | mì děng | - |
+| Idempotent | 幂等 | mì děng | 幂等操作 (idempotent operation) |
 | Implement | 实现 | shí xiàn | - |
 | Inherit | 继承 | jì chéng | 继承性 (inheritance) |
 | Input | 输入 | shū rù | - |
