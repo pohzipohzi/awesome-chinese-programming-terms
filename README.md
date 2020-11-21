@@ -132,7 +132,7 @@ A list of useful programming terms in chinese
 | Update | 更新 | gēng xīn | - |
 | Upgrade | 升级 | shēng jí | - |
 | Upload | 上传 | shàng chuán | - |
-| User | 用户 | yòng hù | 用户名 (username), 用户帐户 (user account), 用户管理 (user management), 用户权限 (user permissions), 超级用户 (superuser), 用户验收测试 (user acceptance test) |
+| User | 用户 | yòng hù | 用户名 (username), 用户帐户 (user account), 用户管理 (user management), 用户权限 (user permissions), 超级用户 (superuser), 用户验收测试 (user acceptance test), 每月活跃用户 (monthly active users) |
 | Value | 值 | zhí | 默认值 (default value) |
 | Variable | 变量 | biàn liàng | 可变变量 (mutable variable), 非可变变量 (immutable variable) |
 | Version | 版本 | bǎn běn | 版本控制 (version control) |
