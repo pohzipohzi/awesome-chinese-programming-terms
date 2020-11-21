@@ -30,6 +30,7 @@ A list of useful programming terms in chinese
 | Commit | 提交 | tí jiāo | 提交历史 (commit history) |
 | Concurrency | 并发 | bìng fā | 并发编程 (concurrent programming) |
 | Configure | 配置 | pèi zhì | - |
+| Connection | 连接 | lián jiē | 连接池 (connection pool) |
 | Consistent | 一致 | yī zhì | 一致性 (consistency), 最终一致性 (eventual consistency) |
 | Coordinate | 坐标 | zuò biāo | - |
 | Coverage | 覆盖率 | fù gài lǜ | 代码覆盖率 (code coverage) |
