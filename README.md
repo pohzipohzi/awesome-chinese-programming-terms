@@ -35,7 +35,7 @@ A list of useful programming terms in chinese
 | Consistent | 一致 | yī zhì | 一致性 (consistency), 最终一致性 (eventual consistency) |
 | Coordinate | 坐标 | zuò biāo | - |
 | Coverage | 覆盖率 | fù gài lǜ | 代码覆盖率 (code coverage) |
-| Data | 数据 | shù jù | 数据结构 (data structure), 数据科学家 (data scientist), 数据模型 (data model), 数据映射 (data mapping), 脏数据 (dirty data), 数据分析 (data analytics), 大数据 (big data) |
+| Data | 数据 | shù jù | 数据结构 (data structure), 数据类型 (data type), 数据科学家 (data scientist), 数据模型 (data model), 数据映射 (data mapping), 脏数据 (dirty data), 数据分析 (data analytics), 大数据 (big data) |
 | Database | 数据库 | shù jù kù | 数据库索引 (database index), 数据库视图 (database view), 关系数据库 (relational database), 数据库事务 (database transaction) |
 | Debug | 调试 | tiáo shì | - |
 | Definition | 定义 | dìng yì | - |
