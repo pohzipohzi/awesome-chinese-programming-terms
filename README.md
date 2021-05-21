@@ -106,6 +106,7 @@ A list of useful programming terms in chinese
 | Real-time | 实时 | shí shí | 实时通讯 (real-time communication) |
 | Reflection | 反射 | fǎn shè | - |
 | Release | 发布 | fā bù | - |
+| Reliable | 可靠 | kě kào | 可靠性 (reliability) |
 | Request | 请求 | qǐng qiú | 拉请求 (pull request), 读请求 (read request), 写请求 (write request), 状态化请求 (stateful request) |
 | Resource | 资源 | zī yuán | - |
 | Return | 返回 | fǎn huí | 返回值 (return value) |
