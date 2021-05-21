@@ -33,6 +33,7 @@ A list of useful programming terms in chinese
 | Configure | 配置 | pèi zhì | - |
 | Connection | 连接 | lián jiē | 连接池 (connection pool) |
 | Consistent | 一致 | yī zhì | 一致性 (consistency), 最终一致性 (eventual consistency) |
+| Container | 容器 | róng qì | - |
 | Coordinate | 坐标 | zuò biāo | - |
 | Coverage | 覆盖率 | fù gài lǜ | 代码覆盖率 (code coverage) |
 | Data | 数据 | shù jù | 数据结构 (data structure), 数据类型 (data type), 数据科学家 (data scientist), 数据模型 (data model), 数据映射 (data mapping), 脏数据 (dirty data), 数据分析 (data analytics), 大数据 (big data) |
