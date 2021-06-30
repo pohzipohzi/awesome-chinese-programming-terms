@@ -25,7 +25,7 @@ A list of useful programming terms in chinese
 | Client | 客户 | kè hù | 客户服务器模式 (client-server model), 客户端 (client side), 客户端库 (client side library) |
 | Cloud | 云 | yún | 云计算 (cloud computing) |
 | Cluster | 集群 | jí qún | - |
-| Code | 代码 | dài mǎ | 代码混淆 (code obfuscation), 源代码 (source code) |
+| Code | 代码 | dài mǎ | 代码混淆 (code obfuscation), 代码覆盖率 (code coverage), 源代码 (source code) |
 | Combine | 合 | hé | 组合数学 (combinatorics), 合并 (merge), 衍合 (rebase) |
 | Command | 命令 | mìng lìng | 命令行界面 (command line interface) |
 | Commit | 提交 | tí jiāo | 提交历史 (commit history) |
@@ -35,7 +35,6 @@ A list of useful programming terms in chinese
 | Consistent | 一致 | yī zhì | 一致性 (consistency), 最终一致性 (eventual consistency) |
 | Container | 容器 | róng qì | - |
 | Coordinate | 坐标 | zuò biāo | - |
-| Coverage | 覆盖率 | fù gài lǜ | 代码覆盖率 (code coverage) |
 | Data | 数据 | shù jù | 数据结构 (data structure), 数据类型 (data type), 数据科学家 (data scientist), 数据模型 (data model), 数据映射 (data mapping), 脏数据 (dirty data), 数据分析 (data analytics), 大数据 (big data) |
 | Database | 数据库 | shù jù kù | 数据库索引 (database index), 数据库视图 (database view), 关系数据库 (relational database), 数据库事务 (database transaction) |
 | Debug | 调试 | tiáo shì | - |
