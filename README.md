@@ -41,7 +41,7 @@ A list of useful programming terms in chinese
 | Debug | 调试 | tiáo shì | - |
 | Definition | 定义 | dìng yì | - |
 | Depend | 依赖 | yī lài | 依赖性 (dependence), 依赖注入 (dependency injection) |
-| Deploy | 部署 | bù shǔ | 蓝绿部署 (blue-green deployment), 金丝雀部署 (canary deployment) |
+| Deploy | 部署 | bù shǔ | 部署程序包 (deployment package), 蓝绿部署 (blue-green deployment), 金丝雀部署 (canary deployment) |
 | Documentation | 文档 | wén dàng | 文档对象模型 (document object model) |
 | Download | 下载 | xià zǎi | - |
 | Dynamic | 动态 | dòng tài | 动态规划 (dynamic programming) |
