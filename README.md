@@ -92,7 +92,7 @@ A list of useful programming terms in chinese
 | Parameter | 参数 | cān shù | - |
 | Partition | 分区 | fēn qū | 容忍网络分区 (partition tolerance), 磁盘分区 (disk partition) |
 | Password | 密码 | mì mǎ | 密码学 (cryptography) |
-| Path | 通路 | tōng lù | - |
+| Path | 路径 | lù jìng | - |
 | Permission | 权限 | quán xiàn | 权限管理 (permission management) |
 | Persistence | 持久性 | chí jiǔ xìng | - |
 | Phishing | 钓鱼 | diào yú | 钓鱼邮件 (phishing email) |
