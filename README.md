@@ -53,6 +53,7 @@ A list of useful programming terms in chinese
 | First In First Out (FIFO) | 先进先出 | xiān jìn xiān chū | - |
 | Function | 函数 | hán shù | 迭代函数 (iterative function), 递归函数 (recursive function) |
 | Generate | 生成 | shēng chéng | - |
+| Geo | 地理 | dì lǐ | 地理编码 (geocode), 地理定位 (geolocation) |
 | Graph | 图 | tú | 二分图 (bipartite graph), 有向图 (directed graph), 有向无环图 (directed acyclic graph) |
 | Guide | 指南 | zhǐ nán | 风格指南 (style guide), 配置指南 (configuration guide), 使用指南 (usage guide), 用户指南 (user guide) |
 | Hash | 哈希 | hā xī | 哈希函数 (hash function), 哈希表 (hash table), 一致哈希 (consistent hashing), 哈希冲突 (hash collision) |
