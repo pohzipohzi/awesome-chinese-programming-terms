@@ -8,6 +8,7 @@ A list of useful programming terms in chinese
 | -ware | 件 | jiàn | 中间件 (middleware), 硬件 (hardware), 软件 (software) |
 | Access | 存取 | cún qǔ | 存取控制 (access control), 资料存取 (data access), 网络存取 (internet access) |
 | Algorithm | 算法 | suàn fǎ | 算法复杂度 (algorithmic complexity) |
+| Alias | 别名 | bié míng | - |
 | Array | 数组 | shù zǔ | 子数组 (subarray) |
 | Atomic | 原子性 | yuán zǐ xìng | - |
 | Authentication | 认证 | rèn zhèng | - |
