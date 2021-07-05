@@ -26,7 +26,7 @@ A list of useful programming terms in chinese
 | Client | 客户 | kè hù | 客户服务器模式 (client-server model), 客户端 (client side), 客户端库 (client side library) |
 | Cloud | 云 | yún | 云计算 (cloud computing) |
 | Cluster | 集群 | jí qún | - |
-| Code | 代码 | dài mǎ | 代码混淆 (code obfuscation), 代码覆盖率 (code coverage), 源代码 (source code) |
+| Code | 代码 | dài mǎ | 代码混淆 (code obfuscation), 代码覆盖率 (code coverage), 代码生成 (code generation), 源代码 (source code) |
 | Combine | 合 | hé | 组合数学 (combinatorics), 合并 (merge), 衍合 (rebase) |
 | Command | 命令 | mìng lìng | 命令行界面 (command line interface) |
 | Commit | 提交 | tí jiāo | 提交历史 (commit history) |
@@ -52,7 +52,6 @@ A list of useful programming terms in chinese
 | File | 文件 | wén jiàn | 文件夹 (file folder), 文件系统 (file system) |
 | First In First Out (FIFO) | 先进先出 | xiān jìn xiān chū | - |
 | Function | 函数 | hán shù | 迭代函数 (iterative function), 递归函数 (recursive function) |
-| Generate | 生成 | shēng chéng | - |
 | Geo | 地理 | dì lǐ | 地理编码 (geocode), 地理定位 (geolocation) |
 | Graph | 图 | tú | 二分图 (bipartite graph), 有向图 (directed graph), 有向无环图 (directed acyclic graph) |
 | Guide | 指南 | zhǐ nán | 风格指南 (style guide), 配置指南 (configuration guide), 使用指南 (usage guide), 用户指南 (user guide) |
