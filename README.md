@@ -43,7 +43,6 @@ A list of useful programming terms in chinese
 | Depend | 依赖 | yī lài | 依赖性 (dependence), 依赖注入 (dependency injection) |
 | Deploy | 部署 | bù shǔ | 部署程序包 (deployment package), 蓝绿部署 (blue-green deployment), 金丝雀部署 (canary deployment) |
 | Documentation | 文档 | wén dàng | 文档对象模型 (document object model) |
-| Download | 下载 | xià zǎi | - |
 | Dynamic | 动态 | dòng tài | 动态规划 (dynamic programming) |
 | Encapsulate | 封装 | fēng zhuāng | 封装性 (encapsulation) |
 | Encryption | 加密 | jiā mì | 强加密 (strong encryption), 对称加密 (symmetric encryption), 非对称加密 (asymmetric encryption) |
@@ -70,12 +69,11 @@ A list of useful programming terms in chinese
 | Limit | 限制 | xiàn zhì | 时间限制 (time limit) |
 | Linked List | 链表 | liàn biǎo | - |
 | Lint | 皮棉 | pí mián | 皮棉规则 (lint rules) |
+| Load | 载 |  zǎi / zài | 懒加载 (lazy loading), 主动加载 (active loading), 负载均衡 (load balancing), 上载 (upload), 下载 (download) |
 | Lock | 锁 | suǒ | 分布式锁 (distributed lock), 互斥锁 (mutex lock) |
 | Log | 日志 | rì zhì | - |
 | Logic | 逻辑 | luó jí | - |
 | Login | 登录 | dēng lù | - |
-| Load (verb) | 加载 | jiā zài | 懒加载 (lazy loading), 主动加载 (active loading) |
-| Load Balancing | 负载均衡 | fù zǎi jūn héng | - |
 | Loop | 循环 | xún huán | - |
 | Maintain | 维护 | wéi hù | - |
 | Memory | 记忆体 | jì yì tǐ | 随机存取记忆体 (random access memory), 唯读记忆体 (read-only memory) |
@@ -136,7 +134,6 @@ A list of useful programming terms in chinese
 | Tree | 树 | shù | 二叉树 (binary tree), 二叉查找树 (binary search tree), 平衡二叉搜索树 (balanced binary tree), AVL树 (AVL tree), 红黑树 (red black tree), 字典树 (trie), B树 (b-tree) |
 | Update | 更新 | gēng xīn | - |
 | Upgrade | 升级 | shēng jí | - |
-| Upload | 上传 | shàng chuán | - |
 | User | 用户 | yòng hù | 用户名 (username), 用户帐户 (user account), 用户管理 (user management), 用户权限 (user permissions), 超级用户 (superuser), 用户验收测试 (user acceptance test), 每月活跃用户 (monthly active users) |
 | Value | 值 | zhí | 默认值 (default value) |
 | Variable | 变量 | biàn liàng | 可变变量 (mutable variable), 非可变变量 (immutable variable) |
