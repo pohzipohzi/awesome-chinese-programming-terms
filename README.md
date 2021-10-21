@@ -34,7 +34,7 @@ A list of useful programming terms in chinese
 | Configure | 配置 | pèi zhì | - |
 | Connection | 连接 | lián jiē | 连接池 (connection pool) |
 | Consistent | 一致 | yī zhì | 一致性 (consistency), 最终一致性 (eventual consistency) |
-| Container | 容器 | róng qì | - |
+| Container | 容器 | róng qì | 容器编排 (container orchestration) |
 | Coordinate | 坐标 | zuò biāo | - |
 | Data | 数据 | shù jù | 数据结构 (data structure), 数据类型 (data type), 数据科学家 (data scientist), 数据模型 (data model), 数据映射 (data mapping), 脏数据 (dirty data), 数据分析 (data analytics), 大数据 (big data) |
 | Database | 数据库 | shù jù kù | 数据库索引 (database index), 数据库视图 (database view), 关系数据库 (relational database), 数据库事务 (database transaction) |
@@ -82,7 +82,8 @@ A list of useful programming terms in chinese
 | Modulo | 模 | mó | - |
 | Monitor | 监控 | jiān kòng | 监控系统 (monitoring system) |
 | Net | 网 | wǎng | 互联网 (internet), 网络 (network), 网络分区 (network partition), 神经网络 (neural network) |
-| Node | 结点 | jié diǎn | 叶结点 (leaf node), 左结点 (left node), 右结点 (right node) |
+| Node (data structures) | 结点 | jié diǎn | 叶结点 (leaf node), 左结点 (left node), 右结点 (right node) |
+| Node (networking) | 节点 | jié diǎn | 物理网络节点 (physical network node) |
 | Object | 对象 | duì xiàng | 面向对象程序设计 (object-oriented programming) |
 | Online | 上线 | shàng xiàn | - |
 | Optimize | 优化 | yōu huà | - |
@@ -99,7 +100,7 @@ A list of useful programming terms in chinese
 | Plugin | 插件 | chā jiàn | - |
 | Pointer | 指针 | zhǐ zhēn | - |
 | Polymorphic | 多态 | duō tài | 多态性 (polymorphism) |
-| Program (verb) | 编程 | biān chéng | 编程师 (programmer) |
+| Program (verb) | 编程 | biān chéng | 编程师 (programmer), 编程接口 (programming interface/API) |
 | Project | 项目 | xiàng mù | - |
 | Protocol | 协议 | xié yì | 网络协议 (network protocol) |
 | Queue | 队列 | duì liè | 消息队列 (message queue), 优先队列 (priority queue) |
@@ -135,6 +136,7 @@ A list of useful programming terms in chinese
 | Tag | 标签 | biāo qiān | - |
 | Test | 测试 | cè shì | 单元测试 (unit test), 集成测试 (integration test), 验收测试 (acceptance test), 回归测试 (regression test), 黑盒测试 (black box test), 白盒测试 (white box test) |
 | Thread | 线程 | xiàn chéng | 多线程 (multithreading) |
+| Traffic | 流量 | liú liàng | - |
 | Tree | 树 | shù | 二叉树 (binary tree), 二叉查找树 (binary search tree), 平衡二叉搜索树 (balanced binary tree), AVL树 (AVL tree), 红黑树 (red black tree), 字典树 (trie), B树 (b-tree) |
 | Update | 更新 | gēng xīn | - |
 | Upgrade | 升级 | shēng jí | - |
