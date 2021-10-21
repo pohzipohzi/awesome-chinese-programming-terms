@@ -47,6 +47,7 @@ A list of useful programming terms in chinese
 | Encapsulate | 封装 | fēng zhuāng | 封装性 (encapsulation) |
 | Encryption | 加密 | jiā mì | 强加密 (strong encryption), 对称加密 (symmetric encryption), 非对称加密 (asymmetric encryption) |
 | End | 端 | duān | 前端 (front end), 后端 (back end), 端口 (port), 端点 (endpoint) |
+| Environment | 环境 | huán jìng | 测试环境 (test environment), 正式环境 (production environment) |
 | Field | 字段 | zì duàn | - |
 | File | 文件 | wén jiàn | 文件夹 (file folder), 文件系统 (file system) |
 | First In First Out (FIFO) | 先进先出 | xiān jìn xiān chū | - |
@@ -72,7 +73,7 @@ A list of useful programming terms in chinese
 | Load | 载 |  zǎi / zài | 懒加载 (lazy loading), 主动加载 (active loading), 负载均衡 (load balancing), 上载 (upload), 下载 (download) |
 | Lock | 锁 | suǒ | 分布式锁 (distributed lock), 互斥锁 (mutex lock) |
 | Log | 日志 | rì zhì | - |
-| Logic | 逻辑 | luó jí | - |
+| Logic | 逻辑 | luó jí | 业务逻辑 (business logic) |
 | Login | 登录 | dēng lù | - |
 | Loop | 循环 | xún huán | - |
 | Maintain | 维护 | wéi hù | - |
@@ -83,10 +84,11 @@ A list of useful programming terms in chinese
 | Net | 网 | wǎng | 互联网 (internet), 网络 (network), 网络分区 (network partition), 神经网络 (neural network) |
 | Node | 结点 | jié diǎn | 叶结点 (leaf node), 左结点 (left node), 右结点 (right node) |
 | Object | 对象 | duì xiàng | 面向对象程序设计 (object-oriented programming) |
+| Online | 上线 | shàng xiàn | - |
 | Optimize | 优化 | yōu huà | - |
 | Option | 选项 | xuǎn xiàng | - |
 | Output | 输出 | shū chū | 输出文件 (output file) |
-| Package | 包 | bāo | - |
+| Package/Packet | 包 | bāo | 丢包 (packet loss) |
 | Parameter | 参数 | cān shù | - |
 | Partition | 分区 | fēn qū | 容忍网络分区 (partition tolerance), 磁盘分区 (disk partition) |
 | Password | 密码 | mì mǎ | 密码学 (cryptography) |
@@ -111,6 +113,7 @@ A list of useful programming terms in chinese
 | Resource | 资源 | zī yuán | - |
 | Return | 返回 | fǎn huí | 返回值 (return value) |
 | Run | 运行 | yùn xíng | - |
+| Screen | 荧幕 | yíng mù | - |
 | Script | 脚本 | jiǎo běn | 脚本语言 (scripting language) |
 | Search | 搜索 | sōu suǒ | 深度优先搜索 (depth-first search), 广度优先搜索 (breadth-first search) |
 | Semantics | 语义 | yǔ yì | - |
