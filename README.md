@@ -51,6 +51,7 @@ A list of useful programming terms in chinese
 | Field | 字段 | zì duàn | - |
 | File | 文件 | wén jiàn | 文件夹 (file folder), 文件系统 (file system) |
 | First In First Out (FIFO) | 先进先出 | xiān jìn xiān chū | - |
+| Framework | 框架 | kuàng jià | - |
 | Function | 函数 | hán shù | 迭代函数 (iterative function), 递归函数 (recursive function) |
 | Geo | 地理 | dì lǐ | 地理编码 (geocode), 地理定位 (geolocation) |
 | Graph | 图 | tú | 二分图 (bipartite graph), 有向图 (directed graph), 有向无环图 (directed acyclic graph) |
