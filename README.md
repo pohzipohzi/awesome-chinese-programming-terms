@@ -125,6 +125,7 @@ A list of useful programming terms in chinese
 | Shard | 分片 | fēn piàn | - |
 | Sign | 号 | hào | 正号 (plus sign "+"), 负号 (minus sign "-"), 正负号 (plus-minus sign "±"), 小于符号 (less than sign "<"), 大于符号 (greater than sign ">"), 括号 (brackets/parentheses) |
 | Sort | 排序 | pái xù | 比较类排序 (comparison-based sort), 非比较类排序 (non-comparison-based sort), 冒泡排序 (bubble sort), 选择排序 (selection sort), 插入排序 (insertion sort), 希尔排序 (shell sort), 归并排序 (merge sort), 快速排序 (quick sort), 堆排序 (heap sort), 计数排序 (counting sort), 桶排序 (bucket sort), 基数排序 (radix sort), 拓扑排序 (topological sort) |
+| Specification | 规范 | guī fàn | - |
 | Step | 步 | bù | 同步 (synchronous), 异步 (asynchronous) |
 | Stack (data structure) | 堆栈 | duī zhàn | 堆栈溢出 (stack overflow) |
 | State | 状态 | zhuàng tài | 状态机 (state machine), 有限状态机 (finite-state machine) |
