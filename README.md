@@ -73,7 +73,7 @@ A list of useful programming terms in chinese
 | Lint | 皮棉 | pí mián | 皮棉规则 (lint rules) |
 | Load | 载 |  zǎi / zài | 懒加载 (lazy loading), 主动加载 (active loading), 负载均衡 (load balancing), 上载 (upload), 下载 (download) |
 | Lock | 锁 | suǒ | 分布式锁 (distributed lock), 互斥锁 (mutex lock) |
-| Log | 日志 | rì zhì | - |
+| Log | 日志 | rì zhì | 更新日志 (release log) |
 | Logic | 逻辑 | luó jí | 业务逻辑 (business logic) |
 | Login | 登录 | dēng lù | - |
 | Loop | 循环 | xún huán | - |
